@@ -1,2 +1,16 @@
-*
-!.gitignore
+# Exclude raw/training data (reproducible, too large)
+raw/
+raw_civil/
+text/
+text_civil/
+labeled/
+job_uploads/
+jobs.db
+infer_*.json
+eval_*.txt
+
+# Include model and lawdb for inference
+!models/
+!models/**
+!lawdb/
+!lawdb/**

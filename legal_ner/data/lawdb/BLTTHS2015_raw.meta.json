@@ -1,0 +1,3033 @@
+{
+  "law_key": "BLTTHS2015",
+  "document": "Bộ luật Tố tụng hình sự (101/2015/QH13)",
+  "total_articles_obtained": 501,
+  "total_articles_expected": 510,
+  "sources": {
+    "primary": {
+      "name": "luatvietnam.vn",
+      "url": "https://luatvietnam.vn/hinh-su/bo-luat-to-tung-hinh-su-2015-101322-d1.html"
+    }
+  },
+  "article_source": {
+    "1": "luatvietnam",
+    "2": "luatvietnam",
+    "3": "luatvietnam",
+    "4": "luatvietnam",
+    "5": "luatvietnam",
+    "6": "luatvietnam",
+    "7": "luatvietnam",
+    "8": "luatvietnam",
+    "9": "luatvietnam",
+    "10": "luatvietnam",
+    "11": "luatvietnam",
+    "12": "luatvietnam",
+    "13": "luatvietnam",
+    "14": "luatvietnam",
+    "15": "luatvietnam",
+    "16": "luatvietnam",
+    "17": "luatvietnam",
+    "18": "luatvietnam",
+    "19": "luatvietnam",
+    "20": "luatvietnam",
+    "21": "luatvietnam",
+    "22": "luatvietnam",
+    "23": "luatvietnam",
+    "24": "luatvietnam",
+    "25": "luatvietnam",
+    "26": "luatvietnam",
+    "27": "luatvietnam",
+    "28": "luatvietnam",
+    "29": "luatvietnam",
+    "30": "luatvietnam",
+    "31": "luatvietnam",
+    "32": "luatvietnam",
+    "33": "luatvietnam",
+    "34": "luatvietnam",
+    "35": "luatvietnam",
+    "36": "luatvietnam",
+    "37": "luatvietnam",
+    "38": "luatvietnam",
+    "39": "luatvietnam",
+    "40": "luatvietnam",
+    "41": "luatvietnam",
+    "42": "luatvietnam",
+    "43": "luatvietnam",
+    "44": "luatvietnam",
+    "45": "luatvietnam",
+    "46": "luatvietnam",
+    "47": "luatvietnam",
+    "48": "luatvietnam",
+    "49": "luatvietnam",
+    "50": "luatvietnam",
+    "51": "luatvietnam",
+    "52": "luatvietnam",
+    "53": "luatvietnam",
+    "54": "luatvietnam",
+    "55": "luatvietnam",
+    "56": "luatvietnam",
+    "57": "luatvietnam",
+    "58": "luatvietnam",
+    "59": "luatvietnam",
+    "60": "luatvietnam",
+    "61": "luatvietnam",
+    "62": "luatvietnam",
+    "63": "luatvietnam",
+    "64": "luatvietnam",
+    "65": "luatvietnam",
+    "66": "luatvietnam",
+    "67": "luatvietnam",
+    "68": "luatvietnam",
+    "69": "luatvietnam",
+    "70": "luatvietnam",
+    "71": "luatvietnam",
+    "72": "luatvietnam",
+    "73": "luatvietnam",
+    "74": "luatvietnam",
+    "75": "luatvietnam",
+    "76": "luatvietnam",
+    "77": "luatvietnam",
+    "78": "luatvietnam",
+    "79": "luatvietnam",
+    "80": "luatvietnam",
+    "81": "luatvietnam",
+    "82": "luatvietnam",
+    "83": "luatvietnam",
+    "84": "luatvietnam",
+    "85": "luatvietnam",
+    "86": "luatvietnam",
+    "87": "luatvietnam",
+    "88": "luatvietnam",
+    "89": "luatvietnam",
+    "90": "luatvietnam",
+    "91": "luatvietnam",
+    "92": "luatvietnam",
+    "93": "luatvietnam",
+    "94": "luatvietnam",
+    "95": "luatvietnam",
+    "96": "luatvietnam",
+    "97": "luatvietnam",
+    "98": "luatvietnam",
+    "99": "luatvietnam",
+    "100": "luatvietnam",
+    "101": "luatvietnam",
+    "102": "luatvietnam",
+    "103": "luatvietnam",
+    "104": "luatvietnam",
+    "105": "luatvietnam",
+    "106": "luatvietnam",
+    "107": "luatvietnam",
+    "108": "luatvietnam",
+    "109": "luatvietnam",
+    "110": "luatvietnam",
+    "111": "luatvietnam",
+    "112": "luatvietnam",
+    "113": "luatvietnam",
+    "114": "luatvietnam",
+    "115": "luatvietnam",
+    "116": "luatvietnam",
+    "117": "luatvietnam",
+    "118": "luatvietnam",
+    "119": "luatvietnam",
+    "120": "luatvietnam",
+    "121": "luatvietnam",
+    "122": "luatvietnam",
+    "123": "luatvietnam",
+    "124": "luatvietnam",
+    "125": "luatvietnam",
+    "126": "luatvietnam",
+    "127": "luatvietnam",
+    "128": "luatvietnam",
+    "129": "luatvietnam",
+    "130": "luatvietnam",
+    "131": "luatvietnam",
+    "132": "luatvietnam",
+    "133": "luatvietnam",
+    "134": "luatvietnam",
+    "135": "luatvietnam",
+    "136": "luatvietnam",
+    "137": "luatvietnam",
+    "138": "luatvietnam",
+    "139": "luatvietnam",
+    "140": "luatvietnam",
+    "141": "luatvietnam",
+    "142": "luatvietnam",
+    "143": "luatvietnam",
+    "144": "luatvietnam",
+    "145": "luatvietnam",
+    "146": "luatvietnam",
+    "147": "luatvietnam",
+    "148": "luatvietnam",
+    "149": "luatvietnam",
+    "150": "luatvietnam",
+    "151": "luatvietnam",
+    "152": "luatvietnam",
+    "153": "luatvietnam",
+    "154": "luatvietnam",
+    "155": "luatvietnam",
+    "156": "luatvietnam",
+    "157": "luatvietnam",
+    "158": "luatvietnam",
+    "159": "luatvietnam",
+    "160": "luatvietnam",
+    "161": "luatvietnam",
+    "162": "luatvietnam",
+    "163": "luatvietnam",
+    "164": "luatvietnam",
+    "165": "luatvietnam",
+    "166": "luatvietnam",
+    "167": "luatvietnam",
+    "168": "luatvietnam",
+    "169": "luatvietnam",
+    "170": "luatvietnam",
+    "171": "luatvietnam",
+    "172": "luatvietnam",
+    "173": "luatvietnam",
+    "174": "luatvietnam",
+    "175": "luatvietnam",
+    "176": "luatvietnam",
+    "177": "luatvietnam",
+    "178": "luatvietnam",
+    "179": "luatvietnam",
+    "180": "luatvietnam",
+    "181": "luatvietnam",
+    "182": "luatvietnam",
+    "183": "luatvietnam",
+    "184": "luatvietnam",
+    "185": "luatvietnam",
+    "186": "luatvietnam",
+    "187": "luatvietnam",
+    "188": "luatvietnam",
+    "189": "luatvietnam",
+    "190": "luatvietnam",
+    "191": "luatvietnam",
+    "192": "luatvietnam",
+    "193": "luatvietnam",
+    "194": "luatvietnam",
+    "195": "luatvietnam",
+    "196": "luatvietnam",
+    "197": "luatvietnam",
+    "198": "luatvietnam",
+    "199": "luatvietnam",
+    "200": "luatvietnam",
+    "201": "luatvietnam",
+    "202": "luatvietnam",
+    "203": "luatvietnam",
+    "204": "luatvietnam",
+    "205": "luatvietnam",
+    "206": "luatvietnam",
+    "207": "luatvietnam",
+    "208": "luatvietnam",
+    "209": "luatvietnam",
+    "210": "luatvietnam",
+    "211": "luatvietnam",
+    "212": "luatvietnam",
+    "213": "luatvietnam",
+    "214": "luatvietnam",
+    "215": "luatvietnam",
+    "216": "luatvietnam",
+    "217": "luatvietnam",
+    "218": "luatvietnam",
+    "219": "luatvietnam",
+    "220": "luatvietnam",
+    "221": "luatvietnam",
+    "222": "luatvietnam",
+    "223": "luatvietnam",
+    "224": "luatvietnam",
+    "225": "luatvietnam",
+    "226": "luatvietnam",
+    "227": "luatvietnam",
+    "228": "luatvietnam",
+    "229": "luatvietnam",
+    "230": "luatvietnam",
+    "231": "luatvietnam",
+    "232": "luatvietnam",
+    "233": "luatvietnam",
+    "234": "luatvietnam",
+    "235": "luatvietnam",
+    "236": "luatvietnam",
+    "237": "luatvietnam",
+    "238": "luatvietnam",
+    "239": "luatvietnam",
+    "240": "luatvietnam",
+    "241": "luatvietnam",
+    "242": "luatvietnam",
+    "243": "luatvietnam",
+    "244": "luatvietnam",
+    "245": "luatvietnam",
+    "246": "luatvietnam",
+    "247": "luatvietnam",
+    "248": "luatvietnam",
+    "249": "luatvietnam",
+    "250": "luatvietnam",
+    "251": "luatvietnam",
+    "252": "luatvietnam",
+    "253": "luatvietnam",
+    "254": "luatvietnam",
+    "255": "luatvietnam",
+    "256": "luatvietnam",
+    "257": "luatvietnam",
+    "258": "luatvietnam",
+    "259": "luatvietnam",
+    "260": "luatvietnam",
+    "261": "luatvietnam",
+    "262": "luatvietnam",
+    "263": "luatvietnam",
+    "264": "luatvietnam",
+    "265": "luatvietnam",
+    "266": "luatvietnam",
+    "267": "luatvietnam",
+    "268": "luatvietnam",
+    "269": "luatvietnam",
+    "270": "luatvietnam",
+    "271": "luatvietnam",
+    "272": "luatvietnam",
+    "273": "luatvietnam",
+    "274": "luatvietnam",
+    "275": "luatvietnam",
+    "276": "luatvietnam",
+    "277": "luatvietnam",
+    "278": "luatvietnam",
+    "279": "luatvietnam",
+    "280": "luatvietnam",
+    "281": "luatvietnam",
+    "282": "luatvietnam",
+    "283": "luatvietnam",
+    "284": "luatvietnam",
+    "285": "luatvietnam",
+    "286": "luatvietnam",
+    "287": "luatvietnam",
+    "288": "luatvietnam",
+    "289": "luatvietnam",
+    "290": "luatvietnam",
+    "291": "luatvietnam",
+    "292": "luatvietnam",
+    "293": "luatvietnam",
+    "294": "luatvietnam",
+    "295": "luatvietnam",
+    "296": "luatvietnam",
+    "297": "luatvietnam",
+    "298": "luatvietnam",
+    "299": "luatvietnam",
+    "300": "luatvietnam",
+    "301": "luatvietnam",
+    "302": "luatvietnam",
+    "303": "luatvietnam",
+    "304": "luatvietnam",
+    "305": "luatvietnam",
+    "306": "luatvietnam",
+    "307": "luatvietnam",
+    "308": "luatvietnam",
+    "309": "luatvietnam",
+    "310": "luatvietnam",
+    "311": "luatvietnam",
+    "312": "luatvietnam",
+    "313": "luatvietnam",
+    "314": "luatvietnam",
+    "315": "luatvietnam",
+    "316": "luatvietnam",
+    "317": "luatvietnam",
+    "318": "luatvietnam",
+    "319": "luatvietnam",
+    "320": "luatvietnam",
+    "321": "luatvietnam",
+    "322": "luatvietnam",
+    "323": "luatvietnam",
+    "324": "luatvietnam",
+    "325": "luatvietnam",
+    "326": "luatvietnam",
+    "327": "luatvietnam",
+    "328": "luatvietnam",
+    "329": "luatvietnam",
+    "330": "luatvietnam",
+    "331": "luatvietnam",
+    "332": "luatvietnam",
+    "333": "luatvietnam",
+    "334": "luatvietnam",
+    "335": "luatvietnam",
+    "336": "luatvietnam",
+    "337": "luatvietnam",
+    "338": "luatvietnam",
+    "339": "luatvietnam",
+    "340": "luatvietnam",
+    "341": "luatvietnam",
+    "342": "luatvietnam",
+    "343": "luatvietnam",
+    "344": "luatvietnam",
+    "345": "luatvietnam",
+    "346": "luatvietnam",
+    "347": "luatvietnam",
+    "348": "luatvietnam",
+    "349": "luatvietnam",
+    "350": "luatvietnam",
+    "351": "luatvietnam",
+    "352": "luatvietnam",
+    "353": "luatvietnam",
+    "354": "luatvietnam",
+    "355": "luatvietnam",
+    "356": "luatvietnam",
+    "357": "luatvietnam",
+    "358": "luatvietnam",
+    "359": "luatvietnam",
+    "360": "luatvietnam",
+    "361": "luatvietnam",
+    "362": "luatvietnam",
+    "363": "luatvietnam",
+    "364": "luatvietnam",
+    "365": "luatvietnam",
+    "366": "luatvietnam",
+    "367": "luatvietnam",
+    "368": "luatvietnam",
+    "369": "luatvietnam",
+    "370": "luatvietnam",
+    "371": "luatvietnam",
+    "372": "luatvietnam",
+    "373": "luatvietnam",
+    "374": "luatvietnam",
+    "375": "luatvietnam",
+    "376": "luatvietnam",
+    "377": "luatvietnam",
+    "378": "luatvietnam",
+    "379": "luatvietnam",
+    "380": "luatvietnam",
+    "381": "luatvietnam",
+    "382": "luatvietnam",
+    "383": "luatvietnam",
+    "384": "luatvietnam",
+    "385": "luatvietnam",
+    "386": "luatvietnam",
+    "387": "luatvietnam",
+    "388": "luatvietnam",
+    "389": "luatvietnam",
+    "390": "luatvietnam",
+    "391": "luatvietnam",
+    "392": "luatvietnam",
+    "393": "luatvietnam",
+    "394": "luatvietnam",
+    "395": "luatvietnam",
+    "396": "luatvietnam",
+    "397": "luatvietnam",
+    "398": "luatvietnam",
+    "399": "luatvietnam",
+    "400": "luatvietnam",
+    "401": "luatvietnam",
+    "402": "luatvietnam",
+    "403": "luatvietnam",
+    "404": "luatvietnam",
+    "405": "luatvietnam",
+    "406": "luatvietnam",
+    "407": "luatvietnam",
+    "408": "luatvietnam",
+    "409": "luatvietnam",
+    "410": "luatvietnam",
+    "411": "luatvietnam",
+    "412": "luatvietnam",
+    "414": "luatvietnam",
+    "415": "luatvietnam",
+    "417": "luatvietnam",
+    "421": "luatvietnam",
+    "426": "luatvietnam",
+    "427": "luatvietnam",
+    "428": "luatvietnam",
+    "429": "luatvietnam",
+    "430": "luatvietnam",
+    "431": "luatvietnam",
+    "432": "luatvietnam",
+    "433": "luatvietnam",
+    "434": "luatvietnam",
+    "435": "luatvietnam",
+    "436": "luatvietnam",
+    "437": "luatvietnam",
+    "438": "luatvietnam",
+    "439": "luatvietnam",
+    "440": "luatvietnam",
+    "441": "luatvietnam",
+    "442": "luatvietnam",
+    "443": "luatvietnam",
+    "444": "luatvietnam",
+    "445": "luatvietnam",
+    "446": "luatvietnam",
+    "447": "luatvietnam",
+    "448": "luatvietnam",
+    "449": "luatvietnam",
+    "450": "luatvietnam",
+    "451": "luatvietnam",
+    "452": "luatvietnam",
+    "453": "luatvietnam",
+    "454": "luatvietnam",
+    "455": "luatvietnam",
+    "456": "luatvietnam",
+    "457": "luatvietnam",
+    "458": "luatvietnam",
+    "459": "luatvietnam",
+    "460": "luatvietnam",
+    "461": "luatvietnam",
+    "462": "luatvietnam",
+    "463": "luatvietnam",
+    "464": "luatvietnam",
+    "465": "luatvietnam",
+    "466": "luatvietnam",
+    "467": "luatvietnam",
+    "468": "luatvietnam",
+    "469": "luatvietnam",
+    "470": "luatvietnam",
+    "471": "luatvietnam",
+    "472": "luatvietnam",
+    "473": "luatvietnam",
+    "474": "luatvietnam",
+    "475": "luatvietnam",
+    "476": "luatvietnam",
+    "477": "luatvietnam",
+    "478": "luatvietnam",
+    "479": "luatvietnam",
+    "480": "luatvietnam",
+    "481": "luatvietnam",
+    "482": "luatvietnam",
+    "483": "luatvietnam",
+    "484": "luatvietnam",
+    "485": "luatvietnam",
+    "486": "luatvietnam",
+    "487": "luatvietnam",
+    "488": "luatvietnam",
+    "489": "luatvietnam",
+    "490": "luatvietnam",
+    "491": "luatvietnam",
+    "492": "luatvietnam",
+    "493": "luatvietnam",
+    "494": "luatvietnam",
+    "495": "luatvietnam",
+    "496": "luatvietnam",
+    "497": "luatvietnam",
+    "498": "luatvietnam",
+    "499": "luatvietnam",
+    "500": "luatvietnam",
+    "501": "luatvietnam",
+    "502": "luatvietnam",
+    "503": "luatvietnam",
+    "504": "luatvietnam",
+    "505": "luatvietnam",
+    "506": "luatvietnam",
+    "507": "luatvietnam",
+    "508": "luatvietnam",
+    "509": "luatvietnam",
+    "510": "luatvietnam"
+  },
+  "article_section": {
+    "1": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "2": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "3": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "4": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "5": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "6": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "7": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "8": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "9": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "10": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "11": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "12": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "13": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "14": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "15": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "16": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "17": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "18": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "19": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "20": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "21": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "22": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "23": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "24": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "25": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "26": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "27": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "28": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "29": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "30": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "31": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "32": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "33": {
+      "phan": null,
+      "chuong": "Chương II - NHỮNG NGUYÊN TẮC CƠ BẢN",
+      "muc": null
+    },
+    "34": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "35": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "36": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "37": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "38": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "39": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "40": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "41": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "42": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "43": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "44": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "45": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "46": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "47": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "48": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "49": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "50": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "51": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "52": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "53": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "54": {
+      "phan": null,
+      "chuong": "Chương III - CƠ QUAN CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG, NGƯỜI CÓ THẨM QUYỀN TIẾN HÀNH TỐ TỤNG",
+      "muc": null
+    },
+    "55": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "56": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "57": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "58": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "59": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "60": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "61": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "62": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "63": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "64": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "65": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "66": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "67": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "68": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "69": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "70": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "71": {
+      "phan": null,
+      "chuong": "Chương IV - NGƯỜI THAM GIA TỐ TỤNG",
+      "muc": null
+    },
+    "72": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "73": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "74": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "75": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "76": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "77": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "78": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "79": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "80": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "81": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "82": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "83": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "84": {
+      "phan": null,
+      "chuong": "Chương V - BÀO CHỮA, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA BỊ HẠI, ĐƯƠNG SỰ",
+      "muc": null
+    },
+    "85": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "86": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "87": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "88": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "89": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "90": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "91": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "92": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "93": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "94": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "95": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "96": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "97": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "98": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "99": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "100": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "101": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "102": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "103": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "104": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "105": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "106": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "107": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "108": {
+      "phan": null,
+      "chuong": "Chương VI - CHỨNG MINH VÀ CHỨNG CỨ",
+      "muc": null
+    },
+    "109": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "110": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "111": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "112": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "113": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "114": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "115": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "116": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "117": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "118": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "119": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "120": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "121": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "122": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "123": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "124": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "125": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "126": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "127": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "128": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "129": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "130": {
+      "phan": null,
+      "chuong": "Chương VII - BIỆN PHÁP NGĂN CHẶN, BIỆN PHÁP CƯỠNG CHẾ",
+      "muc": null
+    },
+    "131": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "132": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "133": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "134": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "135": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "136": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "137": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "138": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "139": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "140": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "141": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "142": {
+      "phan": null,
+      "chuong": "Chương VIII - HỒ SƠ VỤ ÁN, VĂN BẢN TỐ TỤNG, THỜI HẠN VÀ CHI PHÍ TỐ TỤNG",
+      "muc": null
+    },
+    "143": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "144": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "145": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "146": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "147": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "148": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "149": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "150": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "151": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "152": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "153": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "154": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "155": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "156": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "157": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "158": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "159": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "160": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "161": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "162": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương IX - KHỞI TỐ VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "163": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "164": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "165": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "166": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "167": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "168": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "169": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "170": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "171": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "172": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "173": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "174": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "175": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "176": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "177": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "178": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương X - NHỮNG QUY ĐỊNH CHUNG VỀ ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "muc": null
+    },
+    "179": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XI - KHỞI TỐ BỊ CAN VÀ HỎI CUNG BỊ CAN",
+      "muc": null
+    },
+    "180": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XI - KHỞI TỐ BỊ CAN VÀ HỎI CUNG BỊ CAN",
+      "muc": null
+    },
+    "181": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XI - KHỞI TỐ BỊ CAN VÀ HỎI CUNG BỊ CAN",
+      "muc": null
+    },
+    "182": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XI - KHỞI TỐ BỊ CAN VÀ HỎI CUNG BỊ CAN",
+      "muc": null
+    },
+    "183": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XI - KHỞI TỐ BỊ CAN VÀ HỎI CUNG BỊ CAN",
+      "muc": null
+    },
+    "184": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XI - KHỞI TỐ BỊ CAN VÀ HỎI CUNG BỊ CAN",
+      "muc": null
+    },
+    "185": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XII - LẤY LỜI KHAI NGƯỜI LÀM CHỨNG, NGƯỜI BỊ HẠI, NGUYÊN ĐƠN DÂN SỰ, BỊ ĐƠN DÂN SỰ, NGƯỜI CÓ QUYỀN LỢI, NGHĨA VỤ LIÊN QUAN ĐẾN VỤ ÁN, ĐỐI CHẤT VÀ NHẬN DẠNG",
+      "muc": null
+    },
+    "186": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XII - LẤY LỜI KHAI NGƯỜI LÀM CHỨNG, NGƯỜI BỊ HẠI, NGUYÊN ĐƠN DÂN SỰ, BỊ ĐƠN DÂN SỰ, NGƯỜI CÓ QUYỀN LỢI, NGHĨA VỤ LIÊN QUAN ĐẾN VỤ ÁN, ĐỐI CHẤT VÀ NHẬN DẠNG",
+      "muc": null
+    },
+    "187": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XII - LẤY LỜI KHAI NGƯỜI LÀM CHỨNG, NGƯỜI BỊ HẠI, NGUYÊN ĐƠN DÂN SỰ, BỊ ĐƠN DÂN SỰ, NGƯỜI CÓ QUYỀN LỢI, NGHĨA VỤ LIÊN QUAN ĐẾN VỤ ÁN, ĐỐI CHẤT VÀ NHẬN DẠNG",
+      "muc": null
+    },
+    "188": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XII - LẤY LỜI KHAI NGƯỜI LÀM CHỨNG, NGƯỜI BỊ HẠI, NGUYÊN ĐƠN DÂN SỰ, BỊ ĐƠN DÂN SỰ, NGƯỜI CÓ QUYỀN LỢI, NGHĨA VỤ LIÊN QUAN ĐẾN VỤ ÁN, ĐỐI CHẤT VÀ NHẬN DẠNG",
+      "muc": null
+    },
+    "189": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XII - LẤY LỜI KHAI NGƯỜI LÀM CHỨNG, NGƯỜI BỊ HẠI, NGUYÊN ĐƠN DÂN SỰ, BỊ ĐƠN DÂN SỰ, NGƯỜI CÓ QUYỀN LỢI, NGHĨA VỤ LIÊN QUAN ĐẾN VỤ ÁN, ĐỐI CHẤT VÀ NHẬN DẠNG",
+      "muc": null
+    },
+    "190": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XII - LẤY LỜI KHAI NGƯỜI LÀM CHỨNG, NGƯỜI BỊ HẠI, NGUYÊN ĐƠN DÂN SỰ, BỊ ĐƠN DÂN SỰ, NGƯỜI CÓ QUYỀN LỢI, NGHĨA VỤ LIÊN QUAN ĐẾN VỤ ÁN, ĐỐI CHẤT VÀ NHẬN DẠNG",
+      "muc": null
+    },
+    "191": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XII - LẤY LỜI KHAI NGƯỜI LÀM CHỨNG, NGƯỜI BỊ HẠI, NGUYÊN ĐƠN DÂN SỰ, BỊ ĐƠN DÂN SỰ, NGƯỜI CÓ QUYỀN LỢI, NGHĨA VỤ LIÊN QUAN ĐẾN VỤ ÁN, ĐỐI CHẤT VÀ NHẬN DẠNG",
+      "muc": null
+    },
+    "192": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "193": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "194": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "195": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "196": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "197": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "198": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "199": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "200": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIII - KHÁM XÉT, THU GIỮ, TẠM GIỮ TÀI LIỆU, ĐỒ VẬT",
+      "muc": null
+    },
+    "201": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIV - KHÁM NGHIỆM HIỆN TRƯỜNG, KHÁM NGHIỆM TỬ THI, XEM XÉT DẤU VẾT TRÊN THÂN THỂ, THỰC NGHIỆM ĐIỀU TRA",
+      "muc": null
+    },
+    "202": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIV - KHÁM NGHIỆM HIỆN TRƯỜNG, KHÁM NGHIỆM TỬ THI, XEM XÉT DẤU VẾT TRÊN THÂN THỂ, THỰC NGHIỆM ĐIỀU TRA",
+      "muc": null
+    },
+    "203": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIV - KHÁM NGHIỆM HIỆN TRƯỜNG, KHÁM NGHIỆM TỬ THI, XEM XÉT DẤU VẾT TRÊN THÂN THỂ, THỰC NGHIỆM ĐIỀU TRA",
+      "muc": null
+    },
+    "204": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XIV - KHÁM NGHIỆM HIỆN TRƯỜNG, KHÁM NGHIỆM TỬ THI, XEM XÉT DẤU VẾT TRÊN THÂN THỂ, THỰC NGHIỆM ĐIỀU TRA",
+      "muc": null
+    },
+    "205": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "206": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "207": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "208": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "209": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "210": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "211": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "212": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "213": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "214": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "215": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "216": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "217": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "218": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "219": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "220": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "221": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "222": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XV - GIÁM ĐỊNH VÀ ĐỊNH GIÁ TÀI SẢN",
+      "muc": null
+    },
+    "223": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVI - BIỆN PHÁP ĐIỀU TRA TỐ TỤNG ĐẶC BIỆT",
+      "muc": null
+    },
+    "224": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVI - BIỆN PHÁP ĐIỀU TRA TỐ TỤNG ĐẶC BIỆT",
+      "muc": null
+    },
+    "225": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVI - BIỆN PHÁP ĐIỀU TRA TỐ TỤNG ĐẶC BIỆT",
+      "muc": null
+    },
+    "226": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVI - BIỆN PHÁP ĐIỀU TRA TỐ TỤNG ĐẶC BIỆT",
+      "muc": null
+    },
+    "227": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVI - BIỆN PHÁP ĐIỀU TRA TỐ TỤNG ĐẶC BIỆT",
+      "muc": null
+    },
+    "228": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVI - BIỆN PHÁP ĐIỀU TRA TỐ TỤNG ĐẶC BIỆT",
+      "muc": null
+    },
+    "229": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVII - TẠM ĐÌNH CHỈ ĐIỀU TRA VÀ KẾT THÚC ĐIỀU TRA",
+      "muc": null
+    },
+    "230": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVII - TẠM ĐÌNH CHỈ ĐIỀU TRA VÀ KẾT THÚC ĐIỀU TRA",
+      "muc": null
+    },
+    "231": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVII - TẠM ĐÌNH CHỈ ĐIỀU TRA VÀ KẾT THÚC ĐIỀU TRA",
+      "muc": null
+    },
+    "232": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVII - TẠM ĐÌNH CHỈ ĐIỀU TRA VÀ KẾT THÚC ĐIỀU TRA",
+      "muc": null
+    },
+    "233": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVII - TẠM ĐÌNH CHỈ ĐIỀU TRA VÀ KẾT THÚC ĐIỀU TRA",
+      "muc": null
+    },
+    "234": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVII - TẠM ĐÌNH CHỈ ĐIỀU TRA VÀ KẾT THÚC ĐIỀU TRA",
+      "muc": null
+    },
+    "235": {
+      "phan": "PHẦN THỨ HAI - KHỞI TỐ, ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XVII - TẠM ĐÌNH CHỈ ĐIỀU TRA VÀ KẾT THÚC ĐIỀU TRA",
+      "muc": null
+    },
+    "236": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XVIII - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "237": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XVIII - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "238": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XVIII - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "239": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XVIII - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "240": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XVIII - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "241": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XVIII - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "242": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XVIII - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "243": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XIX - QUYẾT ĐỊNH VIỆC TRUY TỐ BỊ CAN",
+      "muc": null
+    },
+    "244": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XIX - QUYẾT ĐỊNH VIỆC TRUY TỐ BỊ CAN",
+      "muc": null
+    },
+    "245": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XIX - QUYẾT ĐỊNH VIỆC TRUY TỐ BỊ CAN",
+      "muc": null
+    },
+    "246": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XIX - QUYẾT ĐỊNH VIỆC TRUY TỐ BỊ CAN",
+      "muc": null
+    },
+    "247": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XIX - QUYẾT ĐỊNH VIỆC TRUY TỐ BỊ CAN",
+      "muc": null
+    },
+    "248": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XIX - QUYẾT ĐỊNH VIỆC TRUY TỐ BỊ CAN",
+      "muc": null
+    },
+    "249": {
+      "phan": "PHẦN THỨ BA - TRUY TỐ",
+      "chuong": "Chương XIX - QUYẾT ĐỊNH VIỆC TRUY TỐ BỊ CAN",
+      "muc": null
+    },
+    "250": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "251": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "252": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "253": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "254": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "255": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "256": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "257": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "258": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "259": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "260": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "261": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "262": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "263": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "264": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "265": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "266": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "267": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XX - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "268": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "269": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "270": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "271": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "272": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "273": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "274": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "275": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "276": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "277": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "278": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "279": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "280": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "281": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "282": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "283": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "284": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "285": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "286": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "287": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "288": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "289": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "290": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "291": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "292": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "293": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "294": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "295": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "296": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "297": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "298": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "299": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "300": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "301": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "302": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "303": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "304": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "305": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "306": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "307": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "308": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "309": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "310": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "311": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "312": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "313": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "314": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "315": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "316": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "317": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "318": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "319": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "320": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "321": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "322": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "323": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "324": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "325": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "326": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "327": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "328": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "329": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXI - XÉT XỬ SƠ THẨM",
+      "muc": null
+    },
+    "330": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "331": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "332": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "333": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "334": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "335": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "336": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "337": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "338": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "339": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "340": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "341": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "342": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "343": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "344": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "345": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "346": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "347": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "348": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "349": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "350": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "351": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "352": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "353": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "354": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "355": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "356": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "357": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "358": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "359": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "360": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "361": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "362": {
+      "phan": "PHẦN THỨ TƯ - XÉT XỬ VỤ ÁN HÌNH SỰ",
+      "chuong": "Chương XXII - XÉT XỬ PHÚC THẨM",
+      "muc": null
+    },
+    "363": {
+      "phan": "PHẦN THỨ NĂM - MỘT SỐ QUY ĐỊNH VỀ THI HÀNH BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN",
+      "chuong": "Chương XXIII - BẢN ÁN, QUYẾT ĐỊNH ĐƯỢC THI HÀNH NGAY VÀ THẨM QUYỀN RA QUYẾT ĐỊNH THI HÀNH ÁN",
+      "muc": null
+    },
+    "364": {
+      "phan": "PHẦN THỨ NĂM - MỘT SỐ QUY ĐỊNH VỀ THI HÀNH BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN",
+      "chuong": "Chương XXIII - BẢN ÁN, QUYẾT ĐỊNH ĐƯỢC THI HÀNH NGAY VÀ THẨM QUYỀN RA QUYẾT ĐỊNH THI HÀNH ÁN",
+      "muc": null
+    },
+    "365": {
+      "phan": "PHẦN THỨ NĂM - MỘT SỐ QUY ĐỊNH VỀ THI HÀNH BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN",
+      "chuong": "Chương XXIII - BẢN ÁN, QUYẾT ĐỊNH ĐƯỢC THI HÀNH NGAY VÀ THẨM QUYỀN RA QUYẾT ĐỊNH THI HÀNH ÁN",
+      "muc": null
+    },
+    "366": {
+      "phan": "PHẦN THỨ NĂM - MỘT SỐ QUY ĐỊNH VỀ THI HÀNH BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN",
+      "chuong": "Chương XXIII - BẢN ÁN, QUYẾT ĐỊNH ĐƯỢC THI HÀNH NGAY VÀ THẨM QUYỀN RA QUYẾT ĐỊNH THI HÀNH ÁN",
+      "muc": null
+    },
+    "367": {
+      "phan": "PHẦN THỨ NĂM - MỘT SỐ QUY ĐỊNH VỀ THI HÀNH BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN",
+      "chuong": "Chương XXIV - MỘT SỐ THỦ TỤC VỀ THI HÀNH ÁN TỬ HÌNH, XÉT THA TÙ TRƯỚC THỜI HẠN CÓ ĐIỀU KIỆN, XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "368": {
+      "phan": "PHẦN THỨ NĂM - MỘT SỐ QUY ĐỊNH VỀ THI HÀNH BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN",
+      "chuong": "Chương XXIV - MỘT SỐ THỦ TỤC VỀ THI HÀNH ÁN TỬ HÌNH, XÉT THA TÙ TRƯỚC THỜI HẠN CÓ ĐIỀU KIỆN, XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "369": {
+      "phan": "PHẦN THỨ NĂM - MỘT SỐ QUY ĐỊNH VỀ THI HÀNH BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN",
+      "chuong": "Chương XXIV - MỘT SỐ THỦ TỤC VỀ THI HÀNH ÁN TỬ HÌNH, XÉT THA TÙ TRƯỚC THỜI HẠN CÓ ĐIỀU KIỆN, XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "370": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "371": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "372": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "373": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "374": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "375": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "376": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "377": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "378": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "379": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "380": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "381": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "382": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "383": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "384": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "385": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "386": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "387": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "388": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "389": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "390": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "391": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "392": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "393": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "394": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "395": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "396": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXV - THỦ TỤC GIÁM ĐỐC THẨM",
+      "muc": null
+    },
+    "397": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVI - THỦ TỤC TÁI THẨM",
+      "muc": null
+    },
+    "398": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVI - THỦ TỤC TÁI THẨM",
+      "muc": null
+    },
+    "399": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVI - THỦ TỤC TÁI THẨM",
+      "muc": null
+    },
+    "400": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVI - THỦ TỤC TÁI THẨM",
+      "muc": null
+    },
+    "401": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVI - THỦ TỤC TÁI THẨM",
+      "muc": null
+    },
+    "402": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVI - THỦ TỤC TÁI THẨM",
+      "muc": null
+    },
+    "403": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVI - THỦ TỤC TÁI THẨM",
+      "muc": null
+    },
+    "404": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "405": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "406": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "407": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "408": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "409": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "410": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "411": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "412": {
+      "phan": "PHẦN THỨ SÁU - XÉT LẠI BẢN ÁN VÀ QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT",
+      "chuong": "Chương XXVII - THỦ TỤC XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO",
+      "muc": null
+    },
+    "414": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "415": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "417": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "421": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "426": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "427": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "428": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "429": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "430": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXVIII - THỦ TỤC TỐ TỤNG ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI",
+      "muc": null
+    },
+    "431": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "432": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "433": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "434": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "435": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "436": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "437": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "438": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "439": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "440": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "441": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "442": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "443": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "444": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "445": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "446": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXIX - THỦ TỤC TỐ TỤNG TRUY CỨU TRÁCH NHIỆM HÌNH SỰ PHÁP NHÂN",
+      "muc": null
+    },
+    "447": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "448": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "449": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "450": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "451": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "452": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "453": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "454": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXX - THỦ TỤC ÁP DỤNG BIỆN PHÁP BẮT BUỘC CHỮA BỆNH",
+      "muc": null
+    },
+    "455": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "456": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "457": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "458": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "459": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "460": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "461": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "462": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "463": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "464": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "465": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXI - THỦ TỤC RÚT GỌN",
+      "muc": null
+    },
+    "466": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXII - XỬ LÝ CÁC HÀNH VI CẢN TRỞ HOẠT ĐỘNG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "467": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXII - XỬ LÝ CÁC HÀNH VI CẢN TRỞ HOẠT ĐỘNG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "468": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXII - XỬ LÝ CÁC HÀNH VI CẢN TRỞ HOẠT ĐỘNG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "469": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "470": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "471": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "472": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "473": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "474": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "475": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "476": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "477": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "478": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "479": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "480": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "481": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "482": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "483": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIII - KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG HÌNH SỰ",
+      "muc": null
+    },
+    "484": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIV - BẢO VỆ NGƯỜI TỐ GIÁC TỘI PHẠM, NGƯỜI LÀM CHỨNG, BỊ HẠI VÀ NGƯỜI THAM GIA TỐ TỤNG KHÁC",
+      "muc": null
+    },
+    "485": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIV - BẢO VỆ NGƯỜI TỐ GIÁC TỘI PHẠM, NGƯỜI LÀM CHỨNG, BỊ HẠI VÀ NGƯỜI THAM GIA TỐ TỤNG KHÁC",
+      "muc": null
+    },
+    "486": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIV - BẢO VỆ NGƯỜI TỐ GIÁC TỘI PHẠM, NGƯỜI LÀM CHỨNG, BỊ HẠI VÀ NGƯỜI THAM GIA TỐ TỤNG KHÁC",
+      "muc": null
+    },
+    "487": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIV - BẢO VỆ NGƯỜI TỐ GIÁC TỘI PHẠM, NGƯỜI LÀM CHỨNG, BỊ HẠI VÀ NGƯỜI THAM GIA TỐ TỤNG KHÁC",
+      "muc": null
+    },
+    "488": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIV - BẢO VỆ NGƯỜI TỐ GIÁC TỘI PHẠM, NGƯỜI LÀM CHỨNG, BỊ HẠI VÀ NGƯỜI THAM GIA TỐ TỤNG KHÁC",
+      "muc": null
+    },
+    "489": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIV - BẢO VỆ NGƯỜI TỐ GIÁC TỘI PHẠM, NGƯỜI LÀM CHỨNG, BỊ HẠI VÀ NGƯỜI THAM GIA TỐ TỤNG KHÁC",
+      "muc": null
+    },
+    "490": {
+      "phan": "PHẦN THỨ BẢY - THỦ TỤC ĐẶC BIỆT",
+      "chuong": "Chương XXXIV - BẢO VỆ NGƯỜI TỐ GIÁC TỘI PHẠM, NGƯỜI LÀM CHỨNG, BỊ HẠI VÀ NGƯỜI THAM GIA TỐ TỤNG KHÁC",
+      "muc": null
+    },
+    "491": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXV - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "492": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXV - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "493": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXV - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "494": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXV - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "495": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXV - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "496": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXV - NHỮNG QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "497": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "498": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "499": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "500": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "501": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "502": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "503": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "504": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "505": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "506": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "507": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "508": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "509": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    },
+    "510": {
+      "phan": "PHẦN THỨ TÁM - HỢP TÁC QUỐC TẾ",
+      "chuong": "Chương XXXVI - MỘT SỐ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ",
+      "muc": null
+    }
+  },
+  "missing_articles": [
+    413,
+    416,
+    418,
+    419,
+    420,
+    422,
+    423,
+    424,
+    425
+  ]
+}

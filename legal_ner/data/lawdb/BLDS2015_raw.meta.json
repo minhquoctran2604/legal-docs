@@ -1,0 +1,4151 @@
+{
+  "law_key": "BLDS2015",
+  "document": "Bộ luật Dân sự (91/2015/QH13)",
+  "total_articles_obtained": 689,
+  "total_articles_expected": 689,
+  "sources": {
+    "primary": {
+      "name": "luatvietnam.vn",
+      "url": "https://luatvietnam.vn/dan-su/bo-luat-dan-su-2015-moi-nhat-so-91-2015-qh13-101333-d1.html"
+    }
+  },
+  "article_source": {
+    "1": "luatvietnam",
+    "2": "luatvietnam",
+    "3": "luatvietnam",
+    "4": "luatvietnam",
+    "5": "luatvietnam",
+    "6": "luatvietnam",
+    "7": "luatvietnam",
+    "8": "luatvietnam",
+    "9": "luatvietnam",
+    "10": "luatvietnam",
+    "11": "luatvietnam",
+    "12": "luatvietnam",
+    "13": "luatvietnam",
+    "14": "luatvietnam",
+    "15": "luatvietnam",
+    "16": "luatvietnam",
+    "17": "luatvietnam",
+    "18": "luatvietnam",
+    "19": "luatvietnam",
+    "20": "luatvietnam",
+    "21": "luatvietnam",
+    "22": "luatvietnam",
+    "23": "luatvietnam",
+    "24": "luatvietnam",
+    "25": "luatvietnam",
+    "26": "luatvietnam",
+    "27": "luatvietnam",
+    "28": "luatvietnam",
+    "29": "luatvietnam",
+    "30": "luatvietnam",
+    "31": "luatvietnam",
+    "32": "luatvietnam",
+    "33": "luatvietnam",
+    "34": "luatvietnam",
+    "35": "luatvietnam",
+    "36": "luatvietnam",
+    "37": "luatvietnam",
+    "38": "luatvietnam",
+    "39": "luatvietnam",
+    "40": "luatvietnam",
+    "41": "luatvietnam",
+    "42": "luatvietnam",
+    "43": "luatvietnam",
+    "44": "luatvietnam",
+    "45": "luatvietnam",
+    "46": "luatvietnam",
+    "47": "luatvietnam",
+    "48": "luatvietnam",
+    "49": "luatvietnam",
+    "50": "luatvietnam",
+    "51": "luatvietnam",
+    "52": "luatvietnam",
+    "53": "luatvietnam",
+    "54": "luatvietnam",
+    "55": "luatvietnam",
+    "56": "luatvietnam",
+    "57": "luatvietnam",
+    "58": "luatvietnam",
+    "59": "luatvietnam",
+    "60": "luatvietnam",
+    "61": "luatvietnam",
+    "62": "luatvietnam",
+    "63": "luatvietnam",
+    "64": "luatvietnam",
+    "65": "luatvietnam",
+    "66": "luatvietnam",
+    "67": "luatvietnam",
+    "68": "luatvietnam",
+    "69": "luatvietnam",
+    "70": "luatvietnam",
+    "71": "luatvietnam",
+    "72": "luatvietnam",
+    "73": "luatvietnam",
+    "74": "luatvietnam",
+    "75": "luatvietnam",
+    "76": "luatvietnam",
+    "77": "luatvietnam",
+    "78": "luatvietnam",
+    "79": "luatvietnam",
+    "80": "luatvietnam",
+    "81": "luatvietnam",
+    "82": "luatvietnam",
+    "83": "luatvietnam",
+    "84": "luatvietnam",
+    "85": "luatvietnam",
+    "86": "luatvietnam",
+    "87": "luatvietnam",
+    "88": "luatvietnam",
+    "89": "luatvietnam",
+    "90": "luatvietnam",
+    "91": "luatvietnam",
+    "92": "luatvietnam",
+    "93": "luatvietnam",
+    "94": "luatvietnam",
+    "95": "luatvietnam",
+    "96": "luatvietnam",
+    "97": "luatvietnam",
+    "98": "luatvietnam",
+    "99": "luatvietnam",
+    "100": "luatvietnam",
+    "101": "luatvietnam",
+    "102": "luatvietnam",
+    "103": "luatvietnam",
+    "104": "luatvietnam",
+    "105": "luatvietnam",
+    "106": "luatvietnam",
+    "107": "luatvietnam",
+    "108": "luatvietnam",
+    "109": "luatvietnam",
+    "110": "luatvietnam",
+    "111": "luatvietnam",
+    "112": "luatvietnam",
+    "113": "luatvietnam",
+    "114": "luatvietnam",
+    "115": "luatvietnam",
+    "116": "luatvietnam",
+    "117": "luatvietnam",
+    "118": "luatvietnam",
+    "119": "luatvietnam",
+    "120": "luatvietnam",
+    "121": "luatvietnam",
+    "122": "luatvietnam",
+    "123": "luatvietnam",
+    "124": "luatvietnam",
+    "125": "luatvietnam",
+    "126": "luatvietnam",
+    "127": "luatvietnam",
+    "128": "luatvietnam",
+    "129": "luatvietnam",
+    "130": "luatvietnam",
+    "131": "luatvietnam",
+    "132": "luatvietnam",
+    "133": "luatvietnam",
+    "134": "luatvietnam",
+    "135": "luatvietnam",
+    "136": "luatvietnam",
+    "137": "luatvietnam",
+    "138": "luatvietnam",
+    "139": "luatvietnam",
+    "140": "luatvietnam",
+    "141": "luatvietnam",
+    "142": "luatvietnam",
+    "143": "luatvietnam",
+    "144": "luatvietnam",
+    "145": "luatvietnam",
+    "146": "luatvietnam",
+    "147": "luatvietnam",
+    "148": "luatvietnam",
+    "149": "luatvietnam",
+    "150": "luatvietnam",
+    "151": "luatvietnam",
+    "152": "luatvietnam",
+    "153": "luatvietnam",
+    "154": "luatvietnam",
+    "155": "luatvietnam",
+    "156": "luatvietnam",
+    "157": "luatvietnam",
+    "158": "luatvietnam",
+    "159": "luatvietnam",
+    "160": "luatvietnam",
+    "161": "luatvietnam",
+    "162": "luatvietnam",
+    "163": "luatvietnam",
+    "164": "luatvietnam",
+    "165": "luatvietnam",
+    "166": "luatvietnam",
+    "167": "luatvietnam",
+    "168": "luatvietnam",
+    "169": "luatvietnam",
+    "170": "luatvietnam",
+    "171": "luatvietnam",
+    "172": "luatvietnam",
+    "173": "luatvietnam",
+    "174": "luatvietnam",
+    "175": "luatvietnam",
+    "176": "luatvietnam",
+    "177": "luatvietnam",
+    "178": "luatvietnam",
+    "179": "luatvietnam",
+    "180": "luatvietnam",
+    "181": "luatvietnam",
+    "182": "luatvietnam",
+    "183": "luatvietnam",
+    "184": "luatvietnam",
+    "185": "luatvietnam",
+    "186": "luatvietnam",
+    "187": "luatvietnam",
+    "188": "luatvietnam",
+    "189": "luatvietnam",
+    "190": "luatvietnam",
+    "191": "luatvietnam",
+    "192": "luatvietnam",
+    "193": "luatvietnam",
+    "194": "luatvietnam",
+    "195": "luatvietnam",
+    "196": "luatvietnam",
+    "197": "luatvietnam",
+    "198": "luatvietnam",
+    "199": "luatvietnam",
+    "200": "luatvietnam",
+    "201": "luatvietnam",
+    "202": "luatvietnam",
+    "203": "luatvietnam",
+    "204": "luatvietnam",
+    "205": "luatvietnam",
+    "206": "luatvietnam",
+    "207": "luatvietnam",
+    "208": "luatvietnam",
+    "209": "luatvietnam",
+    "210": "luatvietnam",
+    "211": "luatvietnam",
+    "212": "luatvietnam",
+    "213": "luatvietnam",
+    "214": "luatvietnam",
+    "215": "luatvietnam",
+    "216": "luatvietnam",
+    "217": "luatvietnam",
+    "218": "luatvietnam",
+    "219": "luatvietnam",
+    "220": "luatvietnam",
+    "221": "luatvietnam",
+    "222": "luatvietnam",
+    "223": "luatvietnam",
+    "224": "luatvietnam",
+    "225": "luatvietnam",
+    "226": "luatvietnam",
+    "227": "luatvietnam",
+    "228": "luatvietnam",
+    "229": "luatvietnam",
+    "230": "luatvietnam",
+    "231": "luatvietnam",
+    "232": "luatvietnam",
+    "233": "luatvietnam",
+    "234": "luatvietnam",
+    "235": "luatvietnam",
+    "236": "luatvietnam",
+    "237": "luatvietnam",
+    "238": "luatvietnam",
+    "239": "luatvietnam",
+    "240": "luatvietnam",
+    "241": "luatvietnam",
+    "242": "luatvietnam",
+    "243": "luatvietnam",
+    "244": "luatvietnam",
+    "245": "luatvietnam",
+    "246": "luatvietnam",
+    "247": "luatvietnam",
+    "248": "luatvietnam",
+    "249": "luatvietnam",
+    "250": "luatvietnam",
+    "251": "luatvietnam",
+    "252": "luatvietnam",
+    "253": "luatvietnam",
+    "254": "luatvietnam",
+    "255": "luatvietnam",
+    "256": "luatvietnam",
+    "257": "luatvietnam",
+    "258": "luatvietnam",
+    "259": "luatvietnam",
+    "260": "luatvietnam",
+    "261": "luatvietnam",
+    "262": "luatvietnam",
+    "263": "luatvietnam",
+    "264": "luatvietnam",
+    "265": "luatvietnam",
+    "266": "luatvietnam",
+    "267": "luatvietnam",
+    "268": "luatvietnam",
+    "269": "luatvietnam",
+    "270": "luatvietnam",
+    "271": "luatvietnam",
+    "272": "luatvietnam",
+    "273": "luatvietnam",
+    "274": "luatvietnam",
+    "275": "luatvietnam",
+    "276": "luatvietnam",
+    "277": "luatvietnam",
+    "278": "luatvietnam",
+    "279": "luatvietnam",
+    "280": "luatvietnam",
+    "281": "luatvietnam",
+    "282": "luatvietnam",
+    "283": "luatvietnam",
+    "284": "luatvietnam",
+    "285": "luatvietnam",
+    "286": "luatvietnam",
+    "287": "luatvietnam",
+    "288": "luatvietnam",
+    "289": "luatvietnam",
+    "290": "luatvietnam",
+    "291": "luatvietnam",
+    "292": "luatvietnam",
+    "293": "luatvietnam",
+    "294": "luatvietnam",
+    "295": "luatvietnam",
+    "296": "luatvietnam",
+    "297": "luatvietnam",
+    "298": "luatvietnam",
+    "299": "luatvietnam",
+    "300": "luatvietnam",
+    "301": "luatvietnam",
+    "302": "luatvietnam",
+    "303": "luatvietnam",
+    "304": "luatvietnam",
+    "305": "luatvietnam",
+    "306": "luatvietnam",
+    "307": "luatvietnam",
+    "308": "luatvietnam",
+    "309": "luatvietnam",
+    "310": "luatvietnam",
+    "311": "luatvietnam",
+    "312": "luatvietnam",
+    "313": "luatvietnam",
+    "314": "luatvietnam",
+    "315": "luatvietnam",
+    "316": "luatvietnam",
+    "317": "luatvietnam",
+    "318": "luatvietnam",
+    "319": "luatvietnam",
+    "320": "luatvietnam",
+    "321": "luatvietnam",
+    "322": "luatvietnam",
+    "323": "luatvietnam",
+    "324": "luatvietnam",
+    "325": "luatvietnam",
+    "326": "luatvietnam",
+    "327": "luatvietnam",
+    "328": "luatvietnam",
+    "329": "luatvietnam",
+    "330": "luatvietnam",
+    "331": "luatvietnam",
+    "332": "luatvietnam",
+    "333": "luatvietnam",
+    "334": "luatvietnam",
+    "335": "luatvietnam",
+    "336": "luatvietnam",
+    "337": "luatvietnam",
+    "338": "luatvietnam",
+    "339": "luatvietnam",
+    "340": "luatvietnam",
+    "341": "luatvietnam",
+    "342": "luatvietnam",
+    "343": "luatvietnam",
+    "344": "luatvietnam",
+    "345": "luatvietnam",
+    "346": "luatvietnam",
+    "347": "luatvietnam",
+    "348": "luatvietnam",
+    "349": "luatvietnam",
+    "350": "luatvietnam",
+    "351": "luatvietnam",
+    "352": "luatvietnam",
+    "353": "luatvietnam",
+    "354": "luatvietnam",
+    "355": "luatvietnam",
+    "356": "luatvietnam",
+    "357": "luatvietnam",
+    "358": "luatvietnam",
+    "359": "luatvietnam",
+    "360": "luatvietnam",
+    "361": "luatvietnam",
+    "362": "luatvietnam",
+    "363": "luatvietnam",
+    "364": "luatvietnam",
+    "365": "luatvietnam",
+    "366": "luatvietnam",
+    "367": "luatvietnam",
+    "368": "luatvietnam",
+    "369": "luatvietnam",
+    "370": "luatvietnam",
+    "371": "luatvietnam",
+    "372": "luatvietnam",
+    "373": "luatvietnam",
+    "374": "luatvietnam",
+    "375": "luatvietnam",
+    "376": "luatvietnam",
+    "377": "luatvietnam",
+    "378": "luatvietnam",
+    "379": "luatvietnam",
+    "380": "luatvietnam",
+    "381": "luatvietnam",
+    "382": "luatvietnam",
+    "383": "luatvietnam",
+    "384": "luatvietnam",
+    "385": "luatvietnam",
+    "386": "luatvietnam",
+    "387": "luatvietnam",
+    "388": "luatvietnam",
+    "389": "luatvietnam",
+    "390": "luatvietnam",
+    "391": "luatvietnam",
+    "392": "luatvietnam",
+    "393": "luatvietnam",
+    "394": "luatvietnam",
+    "395": "luatvietnam",
+    "396": "luatvietnam",
+    "397": "luatvietnam",
+    "398": "luatvietnam",
+    "399": "luatvietnam",
+    "400": "luatvietnam",
+    "401": "luatvietnam",
+    "402": "luatvietnam",
+    "403": "luatvietnam",
+    "404": "luatvietnam",
+    "405": "luatvietnam",
+    "406": "luatvietnam",
+    "407": "luatvietnam",
+    "408": "luatvietnam",
+    "409": "luatvietnam",
+    "410": "luatvietnam",
+    "411": "luatvietnam",
+    "412": "luatvietnam",
+    "413": "luatvietnam",
+    "414": "luatvietnam",
+    "415": "luatvietnam",
+    "416": "luatvietnam",
+    "417": "luatvietnam",
+    "418": "luatvietnam",
+    "419": "luatvietnam",
+    "420": "luatvietnam",
+    "421": "luatvietnam",
+    "422": "luatvietnam",
+    "423": "luatvietnam",
+    "424": "luatvietnam",
+    "425": "luatvietnam",
+    "426": "luatvietnam",
+    "427": "luatvietnam",
+    "428": "luatvietnam",
+    "429": "luatvietnam",
+    "430": "luatvietnam",
+    "431": "luatvietnam",
+    "432": "luatvietnam",
+    "433": "luatvietnam",
+    "434": "luatvietnam",
+    "435": "luatvietnam",
+    "436": "luatvietnam",
+    "437": "luatvietnam",
+    "438": "luatvietnam",
+    "439": "luatvietnam",
+    "440": "luatvietnam",
+    "441": "luatvietnam",
+    "442": "luatvietnam",
+    "443": "luatvietnam",
+    "444": "luatvietnam",
+    "445": "luatvietnam",
+    "446": "luatvietnam",
+    "447": "luatvietnam",
+    "448": "luatvietnam",
+    "449": "luatvietnam",
+    "450": "luatvietnam",
+    "451": "luatvietnam",
+    "452": "luatvietnam",
+    "453": "luatvietnam",
+    "454": "luatvietnam",
+    "455": "luatvietnam",
+    "456": "luatvietnam",
+    "457": "luatvietnam",
+    "458": "luatvietnam",
+    "459": "luatvietnam",
+    "460": "luatvietnam",
+    "461": "luatvietnam",
+    "462": "luatvietnam",
+    "463": "luatvietnam",
+    "464": "luatvietnam",
+    "465": "luatvietnam",
+    "466": "luatvietnam",
+    "467": "luatvietnam",
+    "468": "luatvietnam",
+    "469": "luatvietnam",
+    "470": "luatvietnam",
+    "471": "luatvietnam",
+    "472": "luatvietnam",
+    "473": "luatvietnam",
+    "474": "luatvietnam",
+    "475": "luatvietnam",
+    "476": "luatvietnam",
+    "477": "luatvietnam",
+    "478": "luatvietnam",
+    "479": "luatvietnam",
+    "480": "luatvietnam",
+    "481": "luatvietnam",
+    "482": "luatvietnam",
+    "483": "luatvietnam",
+    "484": "luatvietnam",
+    "485": "luatvietnam",
+    "486": "luatvietnam",
+    "487": "luatvietnam",
+    "488": "luatvietnam",
+    "489": "luatvietnam",
+    "490": "luatvietnam",
+    "491": "luatvietnam",
+    "492": "luatvietnam",
+    "493": "luatvietnam",
+    "494": "luatvietnam",
+    "495": "luatvietnam",
+    "496": "luatvietnam",
+    "497": "luatvietnam",
+    "498": "luatvietnam",
+    "499": "luatvietnam",
+    "500": "luatvietnam",
+    "501": "luatvietnam",
+    "502": "luatvietnam",
+    "503": "luatvietnam",
+    "504": "luatvietnam",
+    "505": "luatvietnam",
+    "506": "luatvietnam",
+    "507": "luatvietnam",
+    "508": "luatvietnam",
+    "509": "luatvietnam",
+    "510": "luatvietnam",
+    "511": "luatvietnam",
+    "512": "luatvietnam",
+    "513": "luatvietnam",
+    "514": "luatvietnam",
+    "515": "luatvietnam",
+    "516": "luatvietnam",
+    "517": "luatvietnam",
+    "518": "luatvietnam",
+    "519": "luatvietnam",
+    "520": "luatvietnam",
+    "521": "luatvietnam",
+    "522": "luatvietnam",
+    "523": "luatvietnam",
+    "524": "luatvietnam",
+    "525": "luatvietnam",
+    "526": "luatvietnam",
+    "527": "luatvietnam",
+    "528": "luatvietnam",
+    "529": "luatvietnam",
+    "530": "luatvietnam",
+    "531": "luatvietnam",
+    "532": "luatvietnam",
+    "533": "luatvietnam",
+    "534": "luatvietnam",
+    "535": "luatvietnam",
+    "536": "luatvietnam",
+    "537": "luatvietnam",
+    "538": "luatvietnam",
+    "539": "luatvietnam",
+    "540": "luatvietnam",
+    "541": "luatvietnam",
+    "542": "luatvietnam",
+    "543": "luatvietnam",
+    "544": "luatvietnam",
+    "545": "luatvietnam",
+    "546": "luatvietnam",
+    "547": "luatvietnam",
+    "548": "luatvietnam",
+    "549": "luatvietnam",
+    "550": "luatvietnam",
+    "551": "luatvietnam",
+    "552": "luatvietnam",
+    "553": "luatvietnam",
+    "554": "luatvietnam",
+    "555": "luatvietnam",
+    "556": "luatvietnam",
+    "557": "luatvietnam",
+    "558": "luatvietnam",
+    "559": "luatvietnam",
+    "560": "luatvietnam",
+    "561": "luatvietnam",
+    "562": "luatvietnam",
+    "563": "luatvietnam",
+    "564": "luatvietnam",
+    "565": "luatvietnam",
+    "566": "luatvietnam",
+    "567": "luatvietnam",
+    "568": "luatvietnam",
+    "569": "luatvietnam",
+    "570": "luatvietnam",
+    "571": "luatvietnam",
+    "572": "luatvietnam",
+    "573": "luatvietnam",
+    "574": "luatvietnam",
+    "575": "luatvietnam",
+    "576": "luatvietnam",
+    "577": "luatvietnam",
+    "578": "luatvietnam",
+    "579": "luatvietnam",
+    "580": "luatvietnam",
+    "581": "luatvietnam",
+    "582": "luatvietnam",
+    "583": "luatvietnam",
+    "584": "luatvietnam",
+    "585": "luatvietnam",
+    "586": "luatvietnam",
+    "587": "luatvietnam",
+    "588": "luatvietnam",
+    "589": "luatvietnam",
+    "590": "luatvietnam",
+    "591": "luatvietnam",
+    "592": "luatvietnam",
+    "593": "luatvietnam",
+    "594": "luatvietnam",
+    "595": "luatvietnam",
+    "596": "luatvietnam",
+    "597": "luatvietnam",
+    "598": "luatvietnam",
+    "599": "luatvietnam",
+    "600": "luatvietnam",
+    "601": "luatvietnam",
+    "602": "luatvietnam",
+    "603": "luatvietnam",
+    "604": "luatvietnam",
+    "605": "luatvietnam",
+    "606": "luatvietnam",
+    "607": "luatvietnam",
+    "608": "luatvietnam",
+    "609": "luatvietnam",
+    "610": "luatvietnam",
+    "611": "luatvietnam",
+    "612": "luatvietnam",
+    "613": "luatvietnam",
+    "614": "luatvietnam",
+    "615": "luatvietnam",
+    "616": "luatvietnam",
+    "617": "luatvietnam",
+    "618": "luatvietnam",
+    "619": "luatvietnam",
+    "620": "luatvietnam",
+    "621": "luatvietnam",
+    "622": "luatvietnam",
+    "623": "luatvietnam",
+    "624": "luatvietnam",
+    "625": "luatvietnam",
+    "626": "luatvietnam",
+    "627": "luatvietnam",
+    "628": "luatvietnam",
+    "629": "luatvietnam",
+    "630": "luatvietnam",
+    "631": "luatvietnam",
+    "632": "luatvietnam",
+    "633": "luatvietnam",
+    "634": "luatvietnam",
+    "635": "luatvietnam",
+    "636": "luatvietnam",
+    "637": "luatvietnam",
+    "638": "luatvietnam",
+    "639": "luatvietnam",
+    "640": "luatvietnam",
+    "641": "luatvietnam",
+    "642": "luatvietnam",
+    "643": "luatvietnam",
+    "644": "luatvietnam",
+    "645": "luatvietnam",
+    "646": "luatvietnam",
+    "647": "luatvietnam",
+    "648": "luatvietnam",
+    "649": "luatvietnam",
+    "650": "luatvietnam",
+    "651": "luatvietnam",
+    "652": "luatvietnam",
+    "653": "luatvietnam",
+    "654": "luatvietnam",
+    "655": "luatvietnam",
+    "656": "luatvietnam",
+    "657": "luatvietnam",
+    "658": "luatvietnam",
+    "659": "luatvietnam",
+    "660": "luatvietnam",
+    "661": "luatvietnam",
+    "662": "luatvietnam",
+    "663": "luatvietnam",
+    "664": "luatvietnam",
+    "665": "luatvietnam",
+    "666": "luatvietnam",
+    "667": "luatvietnam",
+    "668": "luatvietnam",
+    "669": "luatvietnam",
+    "670": "luatvietnam",
+    "671": "luatvietnam",
+    "672": "luatvietnam",
+    "673": "luatvietnam",
+    "674": "luatvietnam",
+    "675": "luatvietnam",
+    "676": "luatvietnam",
+    "677": "luatvietnam",
+    "678": "luatvietnam",
+    "679": "luatvietnam",
+    "680": "luatvietnam",
+    "681": "luatvietnam",
+    "682": "luatvietnam",
+    "683": "luatvietnam",
+    "684": "luatvietnam",
+    "685": "luatvietnam",
+    "686": "luatvietnam",
+    "687": "luatvietnam",
+    "688": "luatvietnam",
+    "689": "luatvietnam"
+  },
+  "article_section": {
+    "1": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "2": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "3": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "4": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "5": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "6": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "7": {
+      "phan": null,
+      "chuong": null,
+      "muc": null
+    },
+    "8": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "9": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "10": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "11": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "12": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "13": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "14": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "15": {
+      "phan": null,
+      "chuong": "Chương II - XÁC LẬP, THỰC HIỆN VÀ BẢO VỆ QUYỀN DÂN SỰ",
+      "muc": null
+    },
+    "16": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "17": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "18": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "19": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "20": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "21": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "22": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "23": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "24": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 1. NĂNG LỰC PHÁP LUẬT DÂN SỰ, NĂNG LỰC HÀNH VI DÂN SỰ CỦA CÁ NHÂN"
+    },
+    "25": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "26": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "27": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "28": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "29": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "30": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "31": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "32": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "33": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "34": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "35": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "36": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "37": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "38": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "39": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 2. QUYỀN NHÂN THÂN"
+    },
+    "40": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 3. NƠI CƯ TRÚ"
+    },
+    "41": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 3. NƠI CƯ TRÚ"
+    },
+    "42": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 3. NƠI CƯ TRÚ"
+    },
+    "43": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 3. NƠI CƯ TRÚ"
+    },
+    "44": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 3. NƠI CƯ TRÚ"
+    },
+    "45": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 3. NƠI CƯ TRÚ"
+    },
+    "46": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "47": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "48": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "49": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "50": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "51": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "52": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "53": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "54": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "55": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "56": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "57": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "58": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "59": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "60": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "61": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "62": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "63": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 4. GIÁM HỘ"
+    },
+    "64": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "65": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "66": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "67": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "68": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "69": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "70": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "71": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "72": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "73": {
+      "phan": null,
+      "chuong": "Chương III - CÁ NHÂN",
+      "muc": "Mục 5. THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ, TUYÊN BỐ MẤT TÍCH, TUYÊN BỐ CHẾT"
+    },
+    "74": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "75": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "76": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "77": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "78": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "79": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "80": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "81": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "82": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "83": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "84": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "85": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "86": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "87": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "88": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "89": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "90": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "91": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "92": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "93": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "94": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "95": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "96": {
+      "phan": null,
+      "chuong": "Chương IV - PHÁP NHÂN",
+      "muc": null
+    },
+    "97": {
+      "phan": null,
+      "chuong": "Chương V - NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM, CƠ QUAN NHÀ NƯỚC Ở TRUNG ƯƠNG, Ở ĐỊA PHƯƠNG TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "98": {
+      "phan": null,
+      "chuong": "Chương V - NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM, CƠ QUAN NHÀ NƯỚC Ở TRUNG ƯƠNG, Ở ĐỊA PHƯƠNG TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "99": {
+      "phan": null,
+      "chuong": "Chương V - NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM, CƠ QUAN NHÀ NƯỚC Ở TRUNG ƯƠNG, Ở ĐỊA PHƯƠNG TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "100": {
+      "phan": null,
+      "chuong": "Chương V - NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM, CƠ QUAN NHÀ NƯỚC Ở TRUNG ƯƠNG, Ở ĐỊA PHƯƠNG TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "101": {
+      "phan": null,
+      "chuong": "Chương VI - HỘ GIA ĐÌNH, TỔ HỢP TÁC VÀ TỔ CHỨC KHÁC KHÔNG CÓ TƯ CÁCH PHÁP NHÂN TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "102": {
+      "phan": null,
+      "chuong": "Chương VI - HỘ GIA ĐÌNH, TỔ HỢP TÁC VÀ TỔ CHỨC KHÁC KHÔNG CÓ TƯ CÁCH PHÁP NHÂN TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "103": {
+      "phan": null,
+      "chuong": "Chương VI - HỘ GIA ĐÌNH, TỔ HỢP TÁC VÀ TỔ CHỨC KHÁC KHÔNG CÓ TƯ CÁCH PHÁP NHÂN TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "104": {
+      "phan": null,
+      "chuong": "Chương VI - HỘ GIA ĐÌNH, TỔ HỢP TÁC VÀ TỔ CHỨC KHÁC KHÔNG CÓ TƯ CÁCH PHÁP NHÂN TRONG QUAN HỆ DÂN SỰ",
+      "muc": null
+    },
+    "105": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "106": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "107": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "108": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "109": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "110": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "111": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "112": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "113": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "114": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "115": {
+      "phan": null,
+      "chuong": "Chương VII - TÀI SẢN",
+      "muc": null
+    },
+    "116": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "117": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "118": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "119": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "120": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "121": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "122": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "123": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "124": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "125": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "126": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "127": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "128": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "129": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "130": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "131": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "132": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "133": {
+      "phan": null,
+      "chuong": "Chương VIII - GIAO DỊCH DÂN SỰ",
+      "muc": null
+    },
+    "134": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "135": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "136": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "137": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "138": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "139": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "140": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "141": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "142": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "143": {
+      "phan": null,
+      "chuong": "Chương IX - ĐẠI DIỆN",
+      "muc": null
+    },
+    "144": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 1. THỜI HẠN"
+    },
+    "145": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 1. THỜI HẠN"
+    },
+    "146": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 1. THỜI HẠN"
+    },
+    "147": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 1. THỜI HẠN"
+    },
+    "148": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 1. THỜI HẠN"
+    },
+    "149": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "150": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "151": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "152": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "153": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "154": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "155": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "156": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "157": {
+      "phan": null,
+      "chuong": "Chương X - THỜI HẠN VÀ THỜI HIỆU",
+      "muc": "Mục 2. THỜI HIỆU"
+    },
+    "158": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 1. NGUYÊN TẮC XÁC LẬP, THỰC HIỆN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "159": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 1. NGUYÊN TẮC XÁC LẬP, THỰC HIỆN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "160": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 1. NGUYÊN TẮC XÁC LẬP, THỰC HIỆN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "161": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 1. NGUYÊN TẮC XÁC LẬP, THỰC HIỆN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "162": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 1. NGUYÊN TẮC XÁC LẬP, THỰC HIỆN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "163": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "164": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "165": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "166": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "167": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "168": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "169": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "170": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 2. BẢO VỆ QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "171": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "172": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "173": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "174": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "175": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "176": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "177": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "178": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XI - QUY ĐỊNH CHUNG",
+      "muc": "Mục 3. GIỚI HẠN QUYỀN SỞ HỮU, QUYỀN KHÁC ĐỐI VỚI TÀI SẢN"
+    },
+    "179": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XII - CHIẾM HỮU",
+      "muc": null
+    },
+    "180": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XII - CHIẾM HỮU",
+      "muc": null
+    },
+    "181": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XII - CHIẾM HỮU",
+      "muc": null
+    },
+    "182": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XII - CHIẾM HỮU",
+      "muc": null
+    },
+    "183": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XII - CHIẾM HỮU",
+      "muc": null
+    },
+    "184": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XII - CHIẾM HỮU",
+      "muc": null
+    },
+    "185": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XII - CHIẾM HỮU",
+      "muc": null
+    },
+    "186": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "187": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "188": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "189": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "190": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "191": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "192": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "193": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "194": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "195": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "196": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 1. NỘI DUNG QUYỀN SỞ HỮU"
+    },
+    "197": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "198": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "199": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "200": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "201": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "202": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "203": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "204": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "205": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "206": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "207": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "208": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "209": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "210": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "211": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "212": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "213": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "214": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "215": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "216": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "217": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "218": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "219": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "220": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 2. HÌNH THỨC SỞ HỮU"
+    },
+    "221": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "222": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "223": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "224": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "225": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "226": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "227": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "228": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "229": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "230": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "231": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "232": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "233": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "234": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "235": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "236": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "237": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "238": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "239": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "240": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "241": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "242": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "243": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "244": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIII - QUYỀN SỞ HỮU",
+      "muc": "Mục 3. XÁC LẬP, CHẤM DỨT QUYỀN SỞ HỮU"
+    },
+    "245": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "246": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "247": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "248": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "249": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "250": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "251": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "252": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "253": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "254": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "255": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "256": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 1. QUYỀN ĐỐI VỚI BẤT ĐỘNG SẢN LIỀN KỀ"
+    },
+    "257": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "258": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "259": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "260": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "261": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "262": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "263": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "264": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "265": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "266": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 2. QUYỀN HƯỞNG DỤNG"
+    },
+    "267": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 3. QUYỀN BỀ MẶT"
+    },
+    "268": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 3. QUYỀN BỀ MẶT"
+    },
+    "269": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 3. QUYỀN BỀ MẶT"
+    },
+    "270": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 3. QUYỀN BỀ MẶT"
+    },
+    "271": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 3. QUYỀN BỀ MẶT"
+    },
+    "272": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 3. QUYỀN BỀ MẶT"
+    },
+    "273": {
+      "phan": "PHẦN THỨ HAI - QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "chuong": "Chương XIV - QUYỀN KHÁC ĐỐI VỚI TÀI SẢN",
+      "muc": "Mục 3. QUYỀN BỀ MẶT"
+    },
+    "274": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 1. CĂN CỨ PHÁT SINH VÀ ĐỐI TƯỢNG CỦA NGHĨA VỤ"
+    },
+    "275": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 1. CĂN CỨ PHÁT SINH VÀ ĐỐI TƯỢNG CỦA NGHĨA VỤ"
+    },
+    "276": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 1. CĂN CỨ PHÁT SINH VÀ ĐỐI TƯỢNG CỦA NGHĨA VỤ"
+    },
+    "277": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "278": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "279": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "280": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "281": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "282": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "283": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "284": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "285": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "286": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "287": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "288": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "289": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "290": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "291": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 2. THỰC HIỆN NGHĨA VỤ"
+    },
+    "292": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "293": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "294": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "295": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "296": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "297": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "298": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "299": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "300": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "301": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "302": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "303": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "304": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "305": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "306": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "307": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "308": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "309": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "310": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "311": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "312": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "313": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "314": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "315": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "316": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "317": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "318": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "319": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "320": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "321": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "322": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "323": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "324": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "325": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "326": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "327": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "328": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "329": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "330": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "331": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "332": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "333": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "334": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "335": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "336": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "337": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "338": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "339": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "340": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "341": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "342": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "343": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "344": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "345": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "346": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "347": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "348": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "349": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "350": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 3. BẢO ĐẢM THỰC HIỆN NGHĨA VỤ"
+    },
+    "351": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "352": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "353": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "354": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "355": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "356": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "357": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "358": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "359": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "360": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "361": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "362": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "363": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "364": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 4. TRÁCH NHIỆM DÂN SỰ"
+    },
+    "365": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 5. CHUYỂN GIAO QUYỀN YÊU CẦU VÀ CHUYỂN GIAO NGHĨA VỤ"
+    },
+    "366": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 5. CHUYỂN GIAO QUYỀN YÊU CẦU VÀ CHUYỂN GIAO NGHĨA VỤ"
+    },
+    "367": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 5. CHUYỂN GIAO QUYỀN YÊU CẦU VÀ CHUYỂN GIAO NGHĨA VỤ"
+    },
+    "368": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 5. CHUYỂN GIAO QUYỀN YÊU CẦU VÀ CHUYỂN GIAO NGHĨA VỤ"
+    },
+    "369": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 5. CHUYỂN GIAO QUYỀN YÊU CẦU VÀ CHUYỂN GIAO NGHĨA VỤ"
+    },
+    "370": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 5. CHUYỂN GIAO QUYỀN YÊU CẦU VÀ CHUYỂN GIAO NGHĨA VỤ"
+    },
+    "371": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 5. CHUYỂN GIAO QUYỀN YÊU CẦU VÀ CHUYỂN GIAO NGHĨA VỤ"
+    },
+    "372": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "373": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "374": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "375": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "376": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "377": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "378": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "379": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "380": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "381": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "382": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "383": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "384": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 6. CHẤM DỨT NGHĨA VỤ"
+    },
+    "385": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "386": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "387": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "388": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "389": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "390": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "391": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "392": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "393": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "394": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "395": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "396": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "397": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "398": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "399": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "400": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "401": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "402": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "403": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "404": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "405": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "406": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "407": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "408": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "409": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "410": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "411": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "412": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "413": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "414": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "415": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "416": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "417": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "418": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "419": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "420": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "421": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "422": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "423": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "424": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "425": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "426": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "427": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "428": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "429": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": null,
+      "muc": "Mục 7. HỢP ĐỒNG"
+    },
+    "430": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "431": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "432": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "433": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "434": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "435": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "436": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "437": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "438": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "439": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "440": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "441": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "442": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "443": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "444": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "445": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "446": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "447": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "448": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "449": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "450": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "451": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "452": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "453": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "454": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 1. HỢP ĐỒNG MUA BÁN TÀI SẢN"
+    },
+    "455": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 2. HỢP ĐỒNG TRAO ĐỔI TÀI SẢN"
+    },
+    "456": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 2. HỢP ĐỒNG TRAO ĐỔI TÀI SẢN"
+    },
+    "457": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 3. HỢP ĐỒNG TẶNG CHO TÀI SẢN"
+    },
+    "458": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 3. HỢP ĐỒNG TẶNG CHO TÀI SẢN"
+    },
+    "459": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 3. HỢP ĐỒNG TẶNG CHO TÀI SẢN"
+    },
+    "460": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 3. HỢP ĐỒNG TẶNG CHO TÀI SẢN"
+    },
+    "461": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 3. HỢP ĐỒNG TẶNG CHO TÀI SẢN"
+    },
+    "462": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 3. HỢP ĐỒNG TẶNG CHO TÀI SẢN"
+    },
+    "463": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "464": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "465": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "466": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "467": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "468": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "469": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "470": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "471": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 4. HỢP ĐỒNG VAY TÀI SẢN"
+    },
+    "472": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "473": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "474": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "475": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "476": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "477": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "478": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "479": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "480": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "481": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "482": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "483": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "484": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "485": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "486": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "487": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "488": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "489": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "490": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "491": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "492": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "493": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 5. HỢP ĐỒNG THUÊ TÀI SẢN"
+    },
+    "494": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 6. HỢP ĐỒNG MƯỢN TÀI SẢN"
+    },
+    "495": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 6. HỢP ĐỒNG MƯỢN TÀI SẢN"
+    },
+    "496": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 6. HỢP ĐỒNG MƯỢN TÀI SẢN"
+    },
+    "497": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 6. HỢP ĐỒNG MƯỢN TÀI SẢN"
+    },
+    "498": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 6. HỢP ĐỒNG MƯỢN TÀI SẢN"
+    },
+    "499": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 6. HỢP ĐỒNG MƯỢN TÀI SẢN"
+    },
+    "500": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 7. HỢP ĐỒNG VỀ QUYỀN SỬ DỤNG ĐẤT"
+    },
+    "501": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 7. HỢP ĐỒNG VỀ QUYỀN SỬ DỤNG ĐẤT"
+    },
+    "502": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 7. HỢP ĐỒNG VỀ QUYỀN SỬ DỤNG ĐẤT"
+    },
+    "503": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 7. HỢP ĐỒNG VỀ QUYỀN SỬ DỤNG ĐẤT"
+    },
+    "504": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "505": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "506": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "507": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "508": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "509": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "510": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "511": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "512": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 8. HỢP ĐỒNG HỢP TÁC"
+    },
+    "513": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "514": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "515": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "516": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "517": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "518": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "519": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "520": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "521": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 9. HỢP ĐỒNG DỊCH VỤ"
+    },
+    "522": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "523": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "524": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "525": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "526": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "527": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "528": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "529": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "530": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "531": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "532": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "533": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "534": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "535": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "536": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "537": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "538": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "539": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "540": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "541": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 10. HỢP ĐỒNG VẬN CHUYỂN"
+    },
+    "542": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "543": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "544": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "545": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "546": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "547": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "548": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "549": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "550": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "551": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "552": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "553": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 11. HỢP ĐỒNG GIA CÔNG"
+    },
+    "554": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "555": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "556": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "557": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "558": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "559": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "560": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "561": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 12. HỢP ĐỒNG GỬI GIỮ TÀI SẢN"
+    },
+    "562": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "563": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "564": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "565": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "566": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "567": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "568": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "569": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVI - MỘT SỐ HỢP ĐỒNG THÔNG DỤNG",
+      "muc": "Mục 13. HỢP ĐỒNG ỦY QUYỀN"
+    },
+    "570": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVII - HỨA THƯỞNG, THI CÓ GIẢI",
+      "muc": null
+    },
+    "571": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVII - HỨA THƯỞNG, THI CÓ GIẢI",
+      "muc": null
+    },
+    "572": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVII - HỨA THƯỞNG, THI CÓ GIẢI",
+      "muc": null
+    },
+    "573": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVII - HỨA THƯỞNG, THI CÓ GIẢI",
+      "muc": null
+    },
+    "574": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVIII - THỰC HIỆN CÔNG VIỆC KHÔNG CÓ UỶ QUYỀN",
+      "muc": null
+    },
+    "575": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVIII - THỰC HIỆN CÔNG VIỆC KHÔNG CÓ UỶ QUYỀN",
+      "muc": null
+    },
+    "576": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVIII - THỰC HIỆN CÔNG VIỆC KHÔNG CÓ UỶ QUYỀN",
+      "muc": null
+    },
+    "577": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVIII - THỰC HIỆN CÔNG VIỆC KHÔNG CÓ UỶ QUYỀN",
+      "muc": null
+    },
+    "578": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XVIII - THỰC HIỆN CÔNG VIỆC KHÔNG CÓ UỶ QUYỀN",
+      "muc": null
+    },
+    "579": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XIX - NGHĨA VỤ HOÀN TRẢ DO CHIẾM HỮU, SỬ DỤNG TÀI SẢN, ĐƯỢC LỢI VỀ TÀI SẢN KHÔNG CÓ CĂN CỨ PHÁP LUẬT",
+      "muc": null
+    },
+    "580": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XIX - NGHĨA VỤ HOÀN TRẢ DO CHIẾM HỮU, SỬ DỤNG TÀI SẢN, ĐƯỢC LỢI VỀ TÀI SẢN KHÔNG CÓ CĂN CỨ PHÁP LUẬT",
+      "muc": null
+    },
+    "581": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XIX - NGHĨA VỤ HOÀN TRẢ DO CHIẾM HỮU, SỬ DỤNG TÀI SẢN, ĐƯỢC LỢI VỀ TÀI SẢN KHÔNG CÓ CĂN CỨ PHÁP LUẬT",
+      "muc": null
+    },
+    "582": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XIX - NGHĨA VỤ HOÀN TRẢ DO CHIẾM HỮU, SỬ DỤNG TÀI SẢN, ĐƯỢC LỢI VỀ TÀI SẢN KHÔNG CÓ CĂN CỨ PHÁP LUẬT",
+      "muc": null
+    },
+    "583": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XIX - NGHĨA VỤ HOÀN TRẢ DO CHIẾM HỮU, SỬ DỤNG TÀI SẢN, ĐƯỢC LỢI VỀ TÀI SẢN KHÔNG CÓ CĂN CỨ PHÁP LUẬT",
+      "muc": null
+    },
+    "584": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG"
+    },
+    "585": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG"
+    },
+    "586": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG"
+    },
+    "587": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG"
+    },
+    "588": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG"
+    },
+    "589": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 2. XÁC ĐỊNH THIỆT HẠI"
+    },
+    "590": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 2. XÁC ĐỊNH THIỆT HẠI"
+    },
+    "591": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 2. XÁC ĐỊNH THIỆT HẠI"
+    },
+    "592": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 2. XÁC ĐỊNH THIỆT HẠI"
+    },
+    "593": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 2. XÁC ĐỊNH THIỆT HẠI"
+    },
+    "594": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "595": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "596": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "597": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "598": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "599": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "600": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "601": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "602": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "603": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "604": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "605": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "606": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "607": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "608": {
+      "phan": "PHẦN THỨ BA - NGHĨA VỤ VÀ HỢP ĐỒNG",
+      "chuong": "Chương XX - TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI NGOÀI HỢP ĐỒNG",
+      "muc": "Mục 3. BỒI THƯỜNG THIỆT HẠI TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ"
+    },
+    "609": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "610": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "611": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "612": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "613": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "614": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "615": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "616": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "617": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "618": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "619": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "620": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "621": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "622": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "623": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXI - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "624": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "625": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "626": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "627": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "628": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "629": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "630": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "631": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "632": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "633": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "634": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "635": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "636": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "637": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "638": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "639": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "640": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "641": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "642": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "643": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "644": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "645": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "646": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "647": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "648": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXII - THỪA KẾ THEO DI CHÚC",
+      "muc": null
+    },
+    "649": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIII - THỪA KẾ THEO PHÁP LUẬT",
+      "muc": null
+    },
+    "650": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIII - THỪA KẾ THEO PHÁP LUẬT",
+      "muc": null
+    },
+    "651": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIII - THỪA KẾ THEO PHÁP LUẬT",
+      "muc": null
+    },
+    "652": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIII - THỪA KẾ THEO PHÁP LUẬT",
+      "muc": null
+    },
+    "653": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIII - THỪA KẾ THEO PHÁP LUẬT",
+      "muc": null
+    },
+    "654": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIII - THỪA KẾ THEO PHÁP LUẬT",
+      "muc": null
+    },
+    "655": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIII - THỪA KẾ THEO PHÁP LUẬT",
+      "muc": null
+    },
+    "656": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIV - THANH TOÁN VÀ PHÂN CHIA DI SẢN",
+      "muc": null
+    },
+    "657": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIV - THANH TOÁN VÀ PHÂN CHIA DI SẢN",
+      "muc": null
+    },
+    "658": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIV - THANH TOÁN VÀ PHÂN CHIA DI SẢN",
+      "muc": null
+    },
+    "659": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIV - THANH TOÁN VÀ PHÂN CHIA DI SẢN",
+      "muc": null
+    },
+    "660": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIV - THANH TOÁN VÀ PHÂN CHIA DI SẢN",
+      "muc": null
+    },
+    "661": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIV - THANH TOÁN VÀ PHÂN CHIA DI SẢN",
+      "muc": null
+    },
+    "662": {
+      "phan": "PHẦN THỨ TƯ - THỪA KẾ",
+      "chuong": "Chương XXIV - THANH TOÁN VÀ PHÂN CHIA DI SẢN",
+      "muc": null
+    },
+    "663": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "664": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "665": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "666": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "667": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "668": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "669": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "670": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "671": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXV - QUY ĐỊNH CHUNG",
+      "muc": null
+    },
+    "672": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVI - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI CÁ NHÂN, PHÁP NHÂN",
+      "muc": null
+    },
+    "673": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVI - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI CÁ NHÂN, PHÁP NHÂN",
+      "muc": null
+    },
+    "674": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVI - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI CÁ NHÂN, PHÁP NHÂN",
+      "muc": null
+    },
+    "675": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVI - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI CÁ NHÂN, PHÁP NHÂN",
+      "muc": null
+    },
+    "676": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVI - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI CÁ NHÂN, PHÁP NHÂN",
+      "muc": null
+    },
+    "677": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "678": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "679": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "680": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "681": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "682": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "683": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "684": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "685": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "686": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "687": {
+      "phan": "PHẦN THỨ NĂM - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI",
+      "chuong": "Chương XXVII - PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ TÀI SẢN, QUAN HỆ NHÂN THÂN",
+      "muc": null
+    },
+    "688": {
+      "phan": "PHẦN THỨ SÁU - ĐIỀU KHOẢN THI HÀNH",
+      "chuong": null,
+      "muc": null
+    },
+    "689": {
+      "phan": "PHẦN THỨ SÁU - ĐIỀU KHOẢN THI HÀNH",
+      "chuong": null,
+      "muc": null
+    }
+  },
+  "missing_articles": []
+}

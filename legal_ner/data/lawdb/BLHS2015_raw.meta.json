@@ -1,0 +1,2577 @@
+{
+  "document": "Bộ luật Hình sự 2015 (100/2015/QH13, sđbs 12/2017/QH14)",
+  "total_articles_obtained": 426,
+  "total_articles_expected": 426,
+  "sources": {
+    "primary": {
+      "name": "luatvietnam.vn",
+      "url": "https://luatvietnam.vn/hinh-su/bo-luat-hinh-su-2015-101324-d1.html"
+    },
+    "backfill": {
+      "name": "huggingface",
+      "repo": "xuanhungttm/bo-luat-hinh-su-2015",
+      "file": "data/train-00000-of-00001.parquet"
+    }
+  },
+  "article_source": {
+    "1": "luatvietnam",
+    "2": "luatvietnam",
+    "3": "luatvietnam",
+    "4": "luatvietnam",
+    "5": "luatvietnam",
+    "6": "luatvietnam",
+    "7": "luatvietnam",
+    "8": "luatvietnam",
+    "9": "luatvietnam",
+    "10": "luatvietnam",
+    "11": "luatvietnam",
+    "12": "luatvietnam",
+    "13": "luatvietnam",
+    "14": "luatvietnam",
+    "15": "luatvietnam",
+    "16": "luatvietnam",
+    "17": "luatvietnam",
+    "18": "luatvietnam",
+    "19": "luatvietnam",
+    "20": "luatvietnam",
+    "21": "luatvietnam",
+    "22": "luatvietnam",
+    "23": "luatvietnam",
+    "24": "luatvietnam",
+    "25": "luatvietnam",
+    "26": "luatvietnam",
+    "27": "luatvietnam",
+    "28": "luatvietnam",
+    "29": "luatvietnam",
+    "30": "luatvietnam",
+    "31": "luatvietnam",
+    "32": "luatvietnam",
+    "33": "luatvietnam",
+    "34": "luatvietnam",
+    "35": "luatvietnam",
+    "36": "luatvietnam",
+    "37": "luatvietnam",
+    "38": "luatvietnam",
+    "39": "luatvietnam",
+    "40": "luatvietnam",
+    "41": "luatvietnam",
+    "42": "luatvietnam",
+    "43": "luatvietnam",
+    "44": "luatvietnam",
+    "45": "luatvietnam",
+    "46": "luatvietnam",
+    "47": "luatvietnam",
+    "48": "luatvietnam",
+    "49": "luatvietnam",
+    "50": "luatvietnam",
+    "51": "luatvietnam",
+    "52": "luatvietnam",
+    "53": "luatvietnam",
+    "54": "luatvietnam",
+    "55": "luatvietnam",
+    "56": "luatvietnam",
+    "57": "luatvietnam",
+    "58": "luatvietnam",
+    "59": "luatvietnam",
+    "60": "luatvietnam",
+    "61": "luatvietnam",
+    "62": "luatvietnam",
+    "63": "luatvietnam",
+    "64": "luatvietnam",
+    "65": "luatvietnam",
+    "66": "luatvietnam",
+    "67": "luatvietnam",
+    "68": "luatvietnam",
+    "69": "luatvietnam",
+    "70": "luatvietnam",
+    "71": "luatvietnam",
+    "72": "luatvietnam",
+    "73": "luatvietnam",
+    "74": "luatvietnam",
+    "75": "luatvietnam",
+    "76": "luatvietnam",
+    "77": "luatvietnam",
+    "78": "luatvietnam",
+    "79": "luatvietnam",
+    "80": "luatvietnam",
+    "81": "luatvietnam",
+    "82": "luatvietnam",
+    "83": "luatvietnam",
+    "84": "luatvietnam",
+    "85": "luatvietnam",
+    "86": "luatvietnam",
+    "87": "luatvietnam",
+    "88": "luatvietnam",
+    "89": "luatvietnam",
+    "90": "luatvietnam",
+    "91": "luatvietnam",
+    "92": "luatvietnam",
+    "93": "luatvietnam",
+    "94": "luatvietnam",
+    "95": "luatvietnam",
+    "96": "luatvietnam",
+    "97": "luatvietnam",
+    "98": "luatvietnam",
+    "99": "luatvietnam",
+    "100": "luatvietnam",
+    "101": "luatvietnam",
+    "102": "luatvietnam",
+    "103": "luatvietnam",
+    "104": "luatvietnam",
+    "105": "luatvietnam",
+    "106": "luatvietnam",
+    "107": "luatvietnam",
+    "108": "luatvietnam",
+    "109": "luatvietnam",
+    "110": "luatvietnam",
+    "111": "luatvietnam",
+    "112": "luatvietnam",
+    "113": "luatvietnam",
+    "114": "luatvietnam",
+    "115": "luatvietnam",
+    "116": "luatvietnam",
+    "117": "luatvietnam",
+    "118": "luatvietnam",
+    "119": "luatvietnam",
+    "120": "luatvietnam",
+    "121": "luatvietnam",
+    "122": "luatvietnam",
+    "123": "luatvietnam",
+    "124": "luatvietnam",
+    "125": "luatvietnam",
+    "126": "luatvietnam",
+    "127": "luatvietnam",
+    "128": "luatvietnam",
+    "129": "luatvietnam",
+    "130": "luatvietnam",
+    "131": "luatvietnam",
+    "132": "luatvietnam",
+    "133": "luatvietnam",
+    "134": "luatvietnam",
+    "135": "luatvietnam",
+    "136": "luatvietnam",
+    "137": "luatvietnam",
+    "138": "luatvietnam",
+    "139": "luatvietnam",
+    "140": "luatvietnam",
+    "141": "luatvietnam",
+    "142": "luatvietnam",
+    "143": "luatvietnam",
+    "144": "luatvietnam",
+    "145": "luatvietnam",
+    "146": "luatvietnam",
+    "147": "luatvietnam",
+    "148": "luatvietnam",
+    "149": "luatvietnam",
+    "150": "luatvietnam",
+    "151": "luatvietnam",
+    "152": "luatvietnam",
+    "153": "luatvietnam",
+    "154": "luatvietnam",
+    "155": "luatvietnam",
+    "156": "luatvietnam",
+    "157": "luatvietnam",
+    "158": "luatvietnam",
+    "159": "luatvietnam",
+    "160": "luatvietnam",
+    "161": "luatvietnam",
+    "162": "luatvietnam",
+    "163": "luatvietnam",
+    "164": "luatvietnam",
+    "165": "luatvietnam",
+    "166": "luatvietnam",
+    "167": "luatvietnam",
+    "168": "luatvietnam",
+    "169": "luatvietnam",
+    "170": "luatvietnam",
+    "171": "luatvietnam",
+    "172": "luatvietnam",
+    "173": "luatvietnam",
+    "174": "luatvietnam",
+    "175": "luatvietnam",
+    "176": "luatvietnam",
+    "177": "luatvietnam",
+    "178": "luatvietnam",
+    "179": "luatvietnam",
+    "180": "luatvietnam",
+    "181": "luatvietnam",
+    "182": "luatvietnam",
+    "183": "luatvietnam",
+    "184": "luatvietnam",
+    "185": "luatvietnam",
+    "186": "luatvietnam",
+    "187": "luatvietnam",
+    "188": "luatvietnam",
+    "189": "luatvietnam",
+    "190": "luatvietnam",
+    "191": "luatvietnam",
+    "192": "luatvietnam",
+    "193": "luatvietnam",
+    "194": "luatvietnam",
+    "195": "luatvietnam",
+    "196": "luatvietnam",
+    "197": "luatvietnam",
+    "198": "luatvietnam",
+    "199": "luatvietnam",
+    "200": "luatvietnam",
+    "201": "luatvietnam",
+    "202": "luatvietnam",
+    "203": "luatvietnam",
+    "204": "luatvietnam",
+    "205": "luatvietnam",
+    "206": "luatvietnam",
+    "207": "luatvietnam",
+    "208": "luatvietnam",
+    "209": "luatvietnam",
+    "210": "luatvietnam",
+    "211": "luatvietnam",
+    "212": "luatvietnam",
+    "213": "luatvietnam",
+    "214": "luatvietnam",
+    "215": "luatvietnam",
+    "216": "luatvietnam",
+    "217": "luatvietnam",
+    "218": "luatvietnam",
+    "219": "luatvietnam",
+    "220": "luatvietnam",
+    "221": "luatvietnam",
+    "222": "luatvietnam",
+    "223": "luatvietnam",
+    "224": "luatvietnam",
+    "225": "luatvietnam",
+    "226": "luatvietnam",
+    "227": "luatvietnam",
+    "228": "luatvietnam",
+    "229": "luatvietnam",
+    "230": "luatvietnam",
+    "231": "luatvietnam",
+    "232": "luatvietnam",
+    "233": "luatvietnam",
+    "234": "luatvietnam",
+    "235": "luatvietnam",
+    "236": "luatvietnam",
+    "237": "luatvietnam",
+    "238": "luatvietnam",
+    "239": "luatvietnam",
+    "240": "luatvietnam",
+    "241": "luatvietnam",
+    "242": "luatvietnam",
+    "243": "luatvietnam",
+    "244": "luatvietnam",
+    "245": "luatvietnam",
+    "246": "luatvietnam",
+    "247": "luatvietnam",
+    "248": "luatvietnam",
+    "249": "luatvietnam",
+    "250": "luatvietnam",
+    "251": "luatvietnam",
+    "252": "luatvietnam",
+    "253": "luatvietnam",
+    "254": "luatvietnam",
+    "255": "luatvietnam",
+    "256": "luatvietnam",
+    "257": "luatvietnam",
+    "258": "luatvietnam",
+    "259": "luatvietnam",
+    "260": "luatvietnam",
+    "261": "luatvietnam",
+    "262": "luatvietnam",
+    "263": "luatvietnam",
+    "264": "luatvietnam",
+    "265": "luatvietnam",
+    "266": "luatvietnam",
+    "267": "luatvietnam",
+    "268": "luatvietnam",
+    "269": "luatvietnam",
+    "270": "luatvietnam",
+    "271": "luatvietnam",
+    "272": "luatvietnam",
+    "273": "luatvietnam",
+    "274": "luatvietnam",
+    "275": "luatvietnam",
+    "276": "luatvietnam",
+    "277": "luatvietnam",
+    "278": "luatvietnam",
+    "279": "luatvietnam",
+    "280": "luatvietnam",
+    "281": "luatvietnam",
+    "282": "luatvietnam",
+    "283": "luatvietnam",
+    "284": "luatvietnam",
+    "285": "luatvietnam",
+    "286": "luatvietnam",
+    "287": "luatvietnam",
+    "288": "luatvietnam",
+    "289": "luatvietnam",
+    "290": "luatvietnam",
+    "291": "luatvietnam",
+    "292": "luatvietnam",
+    "293": "luatvietnam",
+    "294": "luatvietnam",
+    "295": "luatvietnam",
+    "296": "luatvietnam",
+    "297": "luatvietnam",
+    "298": "luatvietnam",
+    "299": "luatvietnam",
+    "300": "luatvietnam",
+    "301": "luatvietnam",
+    "302": "luatvietnam",
+    "303": "luatvietnam",
+    "304": "luatvietnam",
+    "305": "luatvietnam",
+    "306": "luatvietnam",
+    "307": "luatvietnam",
+    "308": "luatvietnam",
+    "309": "luatvietnam",
+    "310": "luatvietnam",
+    "311": "luatvietnam",
+    "312": "luatvietnam",
+    "313": "luatvietnam",
+    "314": "luatvietnam",
+    "315": "luatvietnam",
+    "316": "luatvietnam",
+    "317": "luatvietnam",
+    "318": "luatvietnam",
+    "319": "luatvietnam",
+    "320": "luatvietnam",
+    "321": "luatvietnam",
+    "322": "luatvietnam",
+    "323": "luatvietnam",
+    "324": "luatvietnam",
+    "325": "luatvietnam",
+    "326": "luatvietnam",
+    "327": "luatvietnam",
+    "328": "luatvietnam",
+    "329": "luatvietnam",
+    "330": "luatvietnam",
+    "331": "luatvietnam",
+    "332": "luatvietnam",
+    "333": "luatvietnam",
+    "334": "luatvietnam",
+    "335": "luatvietnam",
+    "336": "luatvietnam",
+    "337": "luatvietnam",
+    "338": "luatvietnam",
+    "339": "luatvietnam",
+    "340": "luatvietnam",
+    "341": "luatvietnam",
+    "342": "luatvietnam",
+    "343": "luatvietnam",
+    "344": "luatvietnam",
+    "345": "luatvietnam",
+    "346": "luatvietnam",
+    "347": "luatvietnam",
+    "348": "luatvietnam",
+    "349": "luatvietnam",
+    "350": "luatvietnam",
+    "351": "luatvietnam",
+    "352": "luatvietnam",
+    "353": "luatvietnam",
+    "354": "luatvietnam",
+    "355": "luatvietnam",
+    "356": "luatvietnam",
+    "357": "luatvietnam",
+    "358": "luatvietnam",
+    "359": "luatvietnam",
+    "360": "luatvietnam",
+    "361": "luatvietnam",
+    "362": "luatvietnam",
+    "363": "luatvietnam",
+    "364": "luatvietnam",
+    "365": "luatvietnam",
+    "366": "luatvietnam",
+    "367": "luatvietnam",
+    "368": "luatvietnam",
+    "369": "luatvietnam",
+    "370": "luatvietnam",
+    "371": "luatvietnam",
+    "372": "luatvietnam",
+    "373": "luatvietnam",
+    "374": "luatvietnam",
+    "375": "luatvietnam",
+    "376": "luatvietnam",
+    "377": "luatvietnam",
+    "378": "luatvietnam",
+    "379": "luatvietnam",
+    "380": "luatvietnam",
+    "381": "luatvietnam",
+    "382": "luatvietnam",
+    "383": "luatvietnam",
+    "384": "luatvietnam",
+    "385": "luatvietnam",
+    "386": "luatvietnam",
+    "387": "luatvietnam",
+    "388": "luatvietnam",
+    "389": "luatvietnam",
+    "390": "luatvietnam",
+    "391": "luatvietnam",
+    "392": "luatvietnam",
+    "393": "luatvietnam",
+    "394": "luatvietnam",
+    "395": "luatvietnam",
+    "396": "luatvietnam",
+    "397": "luatvietnam",
+    "398": "luatvietnam",
+    "399": "luatvietnam",
+    "400": "luatvietnam",
+    "401": "luatvietnam",
+    "402": "luatvietnam",
+    "403": "luatvietnam",
+    "404": "luatvietnam",
+    "405": "luatvietnam",
+    "406": "luatvietnam",
+    "407": "luatvietnam",
+    "408": "luatvietnam",
+    "409": "luatvietnam",
+    "410": "luatvietnam",
+    "411": "luatvietnam",
+    "412": "luatvietnam",
+    "413": "luatvietnam",
+    "414": "luatvietnam",
+    "415": "luatvietnam",
+    "416": "luatvietnam",
+    "417": "luatvietnam",
+    "418": "luatvietnam",
+    "419": "luatvietnam",
+    "420": "luatvietnam",
+    "421": "luatvietnam",
+    "422": "luatvietnam",
+    "423": "luatvietnam",
+    "424": "luatvietnam",
+    "425": "luatvietnam",
+    "426": "luatvietnam"
+  },
+  "article_section": {
+    "1": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": null,
+      "muc": null
+    },
+    "2": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": null,
+      "muc": null
+    },
+    "3": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": null,
+      "muc": null
+    },
+    "4": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": null,
+      "muc": null
+    },
+    "5": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương II - HIỆU LỰC CỦA BỘ LUẬT HÌNH SỰ",
+      "muc": null
+    },
+    "6": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương II - HIỆU LỰC CỦA BỘ LUẬT HÌNH SỰ",
+      "muc": null
+    },
+    "7": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương II - HIỆU LỰC CỦA BỘ LUẬT HÌNH SỰ",
+      "muc": null
+    },
+    "8": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "9": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "10": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "11": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "12": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "13": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "14": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "15": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "16": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "17": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "18": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "19": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương III - TỘI PHẠM",
+      "muc": null
+    },
+    "20": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IV - NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "21": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IV - NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "22": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IV - NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "23": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IV - NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "24": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IV - NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "25": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IV - NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "26": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IV - NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "27": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương V - THỜI HIỆU TRUY CỨU TRÁCH NHIỆM HÌNH SỰ, MIỄN TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "28": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương V - THỜI HIỆU TRUY CỨU TRÁCH NHIỆM HÌNH SỰ, MIỄN TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "29": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương V - THỜI HIỆU TRUY CỨU TRÁCH NHIỆM HÌNH SỰ, MIỄN TRÁCH NHIỆM HÌNH SỰ",
+      "muc": null
+    },
+    "30": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "31": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "32": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "33": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "34": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "35": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "36": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "37": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "38": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "39": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "40": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "41": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "42": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "43": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "44": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "45": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VI - HÌNH PHẠT",
+      "muc": null
+    },
+    "46": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VII - CÁC BIỆN PHÁP TƯ PHÁP",
+      "muc": null
+    },
+    "47": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VII - CÁC BIỆN PHÁP TƯ PHÁP",
+      "muc": null
+    },
+    "48": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VII - CÁC BIỆN PHÁP TƯ PHÁP",
+      "muc": null
+    },
+    "49": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VII - CÁC BIỆN PHÁP TƯ PHÁP",
+      "muc": null
+    },
+    "50": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG VỀ QUYẾT ĐỊNH HÌNH PHẠT"
+    },
+    "51": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG VỀ QUYẾT ĐỊNH HÌNH PHẠT"
+    },
+    "52": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG VỀ QUYẾT ĐỊNH HÌNH PHẠT"
+    },
+    "53": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG VỀ QUYẾT ĐỊNH HÌNH PHẠT"
+    },
+    "54": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 2. QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ"
+    },
+    "55": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 2. QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ"
+    },
+    "56": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 2. QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ"
+    },
+    "57": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 2. QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ"
+    },
+    "58": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 2. QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ"
+    },
+    "59": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương VIII - QUYẾT ĐỊNH HÌNH PHẠT",
+      "muc": "Mục 2. QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ"
+    },
+    "60": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "61": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "62": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "63": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "64": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "65": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "66": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "67": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "68": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương IX - THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT",
+      "muc": null
+    },
+    "69": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương X - XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "70": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương X - XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "71": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương X - XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "72": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương X - XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "73": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương X - XÓA ÁN TÍCH",
+      "muc": null
+    },
+    "74": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "75": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "76": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "77": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "78": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "79": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "80": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "81": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "82": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "83": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "84": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "85": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "86": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "87": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "88": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "89": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XI - NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI",
+      "muc": null
+    },
+    "90": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG VỀ XỬ LÝ HÌNH SỰ ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI"
+    },
+    "91": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 1. QUY ĐỊNH CHUNG VỀ XỬ LÝ HÌNH SỰ ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI"
+    },
+    "92": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 2. CÁC BIỆN PHÁP GIÁM SÁT, GIÁO DỤC ÁP DỤNG TRONG TRƯỜNG HỢP ĐƯỢC MIỄN TRÁCH NHIỆM HÌNH SỰ"
+    },
+    "93": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 2. CÁC BIỆN PHÁP GIÁM SÁT, GIÁO DỤC ÁP DỤNG TRONG TRƯỜNG HỢP ĐƯỢC MIỄN TRÁCH NHIỆM HÌNH SỰ"
+    },
+    "94": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 2. CÁC BIỆN PHÁP GIÁM SÁT, GIÁO DỤC ÁP DỤNG TRONG TRƯỜNG HỢP ĐƯỢC MIỄN TRÁCH NHIỆM HÌNH SỰ"
+    },
+    "95": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 2. CÁC BIỆN PHÁP GIÁM SÁT, GIÁO DỤC ÁP DỤNG TRONG TRƯỜNG HỢP ĐƯỢC MIỄN TRÁCH NHIỆM HÌNH SỰ"
+    },
+    "96": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 3. BIỆN PHÁP TƯ PHÁP GIÁO DỤC TẠI TRƯỜNG GIÁO DƯỠNG"
+    },
+    "97": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 3. BIỆN PHÁP TƯ PHÁP GIÁO DỤC TẠI TRƯỜNG GIÁO DƯỠNG"
+    },
+    "98": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 4. HÌNH PHẠT"
+    },
+    "99": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 4. HÌNH PHẠT"
+    },
+    "100": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 4. HÌNH PHẠT"
+    },
+    "101": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 4. HÌNH PHẠT"
+    },
+    "102": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 5. QUYẾT ĐỊNH HÌNH PHẠT, TỔNG HỢP HÌNH PHẠT, MIỄN GIẢM HÌNH PHẠT, XÓA ÁN TÍCH"
+    },
+    "103": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 5. QUYẾT ĐỊNH HÌNH PHẠT, TỔNG HỢP HÌNH PHẠT, MIỄN GIẢM HÌNH PHẠT, XÓA ÁN TÍCH"
+    },
+    "104": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 5. QUYẾT ĐỊNH HÌNH PHẠT, TỔNG HỢP HÌNH PHẠT, MIỄN GIẢM HÌNH PHẠT, XÓA ÁN TÍCH"
+    },
+    "105": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 5. QUYẾT ĐỊNH HÌNH PHẠT, TỔNG HỢP HÌNH PHẠT, MIỄN GIẢM HÌNH PHẠT, XÓA ÁN TÍCH"
+    },
+    "106": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 5. QUYẾT ĐỊNH HÌNH PHẠT, TỔNG HỢP HÌNH PHẠT, MIỄN GIẢM HÌNH PHẠT, XÓA ÁN TÍCH"
+    },
+    "107": {
+      "phan": "Phần thứ nhất - NHỮNG QUY ĐỊNH CHUNG",
+      "chuong": "Chương XII - NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI",
+      "muc": "Mục 5. QUYẾT ĐỊNH HÌNH PHẠT, TỔNG HỢP HÌNH PHẠT, MIỄN GIẢM HÌNH PHẠT, XÓA ÁN TÍCH"
+    },
+    "108": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "109": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "110": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "111": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "112": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "113": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "114": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "115": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "116": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "117": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "118": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "119": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "120": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "121": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "122": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIII - CÁC TỘI XÂM PHẠM AN NINH QUỐC GIA",
+      "muc": null
+    },
+    "123": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "124": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "125": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "126": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "127": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "128": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "129": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "130": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "131": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "132": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "133": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "134": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "135": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "136": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "137": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "138": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "139": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "140": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "141": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "142": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "143": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "144": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "145": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "146": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "147": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "148": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "149": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "150": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "151": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "152": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "153": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "154": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "155": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "156": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIV - CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI",
+      "muc": null
+    },
+    "157": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "158": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "159": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "160": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "161": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "162": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "163": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "164": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "165": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "166": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "167": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XV - CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI, QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN",
+      "muc": null
+    },
+    "168": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "169": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "170": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "171": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "172": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "173": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "174": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "175": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "176": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "177": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "178": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "179": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "180": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVI - CÁC TỘI XÂM PHẠM SỞ HỮU",
+      "muc": null
+    },
+    "181": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVII - CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH",
+      "muc": null
+    },
+    "182": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVII - CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH",
+      "muc": null
+    },
+    "183": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVII - CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH",
+      "muc": null
+    },
+    "184": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVII - CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH",
+      "muc": null
+    },
+    "185": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVII - CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH",
+      "muc": null
+    },
+    "186": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVII - CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH",
+      "muc": null
+    },
+    "187": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVII - CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH",
+      "muc": null
+    },
+    "188": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "189": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "190": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "191": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "192": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "193": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "194": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "195": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "196": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "197": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "198": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "199": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 1. CÁC TỘI PHẠM TRONG LĨNH VỰC SẢN XUẤT, KINH DOANH, THƯƠNG MẠI"
+    },
+    "200": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "201": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "202": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "203": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "204": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "205": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "206": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "207": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "208": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "209": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "210": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "211": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "212": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "213": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "214": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "215": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "216": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 2. CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH, NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM"
+    },
+    "217": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "218": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "219": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "220": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "221": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "222": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "223": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "224": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "225": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "226": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "227": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "228": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "229": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "230": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "231": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "232": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "233": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "234": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XVIII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ QUẢN LÝ KINH TẾ"
+    },
+    "235": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "236": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "237": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "238": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "239": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "240": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "241": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "242": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "243": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "244": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "245": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "246": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XIX - CÁC TỘI PHẠM VỀ MÔI TRƯỜNG",
+      "muc": null
+    },
+    "247": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "248": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "249": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "250": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "251": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "252": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "253": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "254": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "255": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "256": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "257": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "258": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "259": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XX - CÁC TỘI PHẠM VỀ MA TÚY",
+      "muc": null
+    },
+    "260": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "261": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "262": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "263": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "264": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "265": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "266": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "267": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "268": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "269": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "270": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "271": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "272": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "273": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "274": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "275": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "276": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "277": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "278": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "279": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "280": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "281": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "282": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "283": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "284": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 1. CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG"
+    },
+    "285": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "286": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "287": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "288": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "289": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "290": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "291": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "292": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "293": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "294": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 2. TỘI PHẠM TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN, MẠNG VIỄN THÔNG"
+    },
+    "295": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "296": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "297": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "298": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "299": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "300": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "301": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "302": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "303": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "304": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "305": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "306": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "307": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "308": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "309": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "310": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "311": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "312": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "313": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "314": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "315": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "316": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "317": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 3. CÁC TỘI PHẠM KHÁC XÂM PHẠM AN TOÀN CÔNG CỘNG"
+    },
+    "318": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "319": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "320": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "321": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "322": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "323": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "324": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "325": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "326": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "327": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "328": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "329": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXI - CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG",
+      "muc": "Mục 4. CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG"
+    },
+    "330": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "331": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "332": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "333": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "334": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "335": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "336": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "337": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "338": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "339": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "340": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "341": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "342": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "343": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "344": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "345": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "346": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "347": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "348": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "349": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "350": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "351": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXII - CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH",
+      "muc": null
+    },
+    "352": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": null
+    },
+    "353": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 1. CÁC TỘI PHẠM THAM NHŨNG"
+    },
+    "354": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 1. CÁC TỘI PHẠM THAM NHŨNG"
+    },
+    "355": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 1. CÁC TỘI PHẠM THAM NHŨNG"
+    },
+    "356": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 1. CÁC TỘI PHẠM THAM NHŨNG"
+    },
+    "357": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 1. CÁC TỘI PHẠM THAM NHŨNG"
+    },
+    "358": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 1. CÁC TỘI PHẠM THAM NHŨNG"
+    },
+    "359": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 1. CÁC TỘI PHẠM THAM NHŨNG"
+    },
+    "360": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 2. CÁC TỘI PHẠM KHÁC VỀ CHỨC VỤ"
+    },
+    "361": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 2. CÁC TỘI PHẠM KHÁC VỀ CHỨC VỤ"
+    },
+    "362": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 2. CÁC TỘI PHẠM KHÁC VỀ CHỨC VỤ"
+    },
+    "363": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 2. CÁC TỘI PHẠM KHÁC VỀ CHỨC VỤ"
+    },
+    "364": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 2. CÁC TỘI PHẠM KHÁC VỀ CHỨC VỤ"
+    },
+    "365": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 2. CÁC TỘI PHẠM KHÁC VỀ CHỨC VỤ"
+    },
+    "366": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIII - CÁC TỘI PHẠM VỀ CHỨC VỤ",
+      "muc": "Mục 2. CÁC TỘI PHẠM KHÁC VỀ CHỨC VỤ"
+    },
+    "367": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "368": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "369": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "370": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "371": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "372": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "373": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "374": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "375": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "376": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "377": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "378": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "379": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "380": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "381": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "382": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "383": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "384": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "385": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "386": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "387": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "388": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "389": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "390": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "391": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXIV - CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP",
+      "muc": null
+    },
+    "392": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "393": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "394": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "395": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "396": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "397": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "398": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "399": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "400": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "401": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "402": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "403": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "404": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "405": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "406": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "407": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "408": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "409": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "410": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "411": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "412": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "413": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "414": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "415": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "416": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "417": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "418": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "419": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "420": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXV - CÁC TỘI XÂM PHẠM NGHĨA VỤ, TRÁCH NHIỆM CỦA QUÂN NHÂN VÀ TRÁCH NHIỆM CỦA NGƯỜI PHỐI THUỘC VỚI QUÂN ĐỘI TRONG CHIẾN ĐẤU, PHỤC VỤ CHIẾN ĐẤU",
+      "muc": null
+    },
+    "421": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXVI - CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH",
+      "muc": null
+    },
+    "422": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXVI - CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH",
+      "muc": null
+    },
+    "423": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXVI - CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH",
+      "muc": null
+    },
+    "424": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXVI - CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH",
+      "muc": null
+    },
+    "425": {
+      "phan": "Phần thứ hai - CÁC TỘI PHẠM",
+      "chuong": "Chương XXVI - CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH",
+      "muc": null
+    },
+    "426": {
+      "phan": "Phần thứ ba - ĐIỀU KHOẢN THI HÀNH",
+      "chuong": "Chương XXVI - CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH",
+      "muc": null
+    }
+  },
+  "missing_articles": []
+}
