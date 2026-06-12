@@ -1,0 +1,8 @@
+# Runtime dependencies actually imported by legal_ner
+requests>=2.31
+PyMuPDF>=1.24
+torch>=2.1
+transformers>=4.46
+datasets>=2.19
+seqeval>=1.2
+numpy>=1.26
